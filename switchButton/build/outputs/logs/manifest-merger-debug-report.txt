@@ -1,0 +1,33 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:1:1-13:12
+INJECTED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:1:1-13:12
+	package
+		ADDED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:2:5-39
+		INJECTED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:4:5-32
+		INJECTED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:1:11-69
+	android:versionCode
+		ADDED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:3:5-28
+		INJECTED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml
+application
+ADDED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:6:5-11:19
+	android:label
+		ADDED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:9:9-41
+	android:icon
+		ADDED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:8:9-45
+	android:allowBackup
+		ADDED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:7:9-35
+	android:theme
+		ADDED from C:\Android\work\AndAlarmManager\switchButton\src\main\AndroidManifest.xml:10:9-40

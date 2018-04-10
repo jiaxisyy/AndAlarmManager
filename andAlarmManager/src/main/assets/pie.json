@@ -1,0 +1,20 @@
+{
+	"code":0,
+	"completionInfoList":[
+		{
+			"completeCount":6,
+			"incompleteCount":3,
+			"type":1
+		},
+		{
+			"completeCount":24,
+			"incompleteCount":4,
+			"type":2
+		},
+		{
+			"completeCount":245,
+			"incompleteCount":122,
+			"type":3
+		}
+	]
+}

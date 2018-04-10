@@ -1,0 +1,23 @@
+{
+	"code":0,
+	"rewardInfoList":[
+		{
+			"curCount":3,
+			"targetCount":7,
+			"timeType":1,
+			"encourage":"KFC两次"
+		},
+		{
+			"curCount":21,
+			"targetCount":31,
+			"timeType":2,
+			"encourage":"反斗乐园2小时"
+		},
+		{
+			"curCount":264,
+			"targetCount":365,
+			"timeType":3,
+			"encourage":"香港迪斯尼游玩"
+		}
+	]
+}

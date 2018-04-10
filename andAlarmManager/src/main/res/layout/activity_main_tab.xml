@@ -1,0 +1,202 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_main_tab"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#f5f5f5">
+
+    <RelativeLayout
+        android:id="@+id/rl_main_title"
+        android:layout_width="fill_parent"
+        android:layout_height="60dip"
+        android:layout_alignParentTop="true"
+        android:background="#FF8F3D">
+
+        <com.babacit.alarm.ui.view.RoundImageView
+            android:id="@+id/riv_main_tab_portrait"
+            android:layout_width="48dip"
+            android:layout_height="48dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:background="@drawable/portrait_default"
+            android:scaleType="fitXY" />
+
+        <RelativeLayout
+            android:id="@+id/rl_charge_percent"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/riv_main_tab_portrait"
+            android:layout_marginLeft="5dip"
+            android:layout_toRightOf="@id/riv_main_tab_portrait">
+
+            <ImageView
+                android:id="@+id/iv_test"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentBottom="true"
+                android:layout_centerHorizontal="true"
+                android:src="@drawable/icon_charge_bg" />
+
+            <ImageView
+                android:id="@+id/iv_battery_percent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBottom="@id/iv_test"
+                android:layout_centerHorizontal="true"
+                android:layout_marginBottom="2dip"
+                android:src="@drawable/icon_charge_percent"
+                android:visibility="gone" />
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@id/riv_main_tab_portrait"
+            android:layout_marginBottom="-2dip"
+            android:layout_marginLeft="5dip"
+            android:layout_toRightOf="@id/rl_charge_percent"
+            android:gravity="bottom|left"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/tv_battery_percent"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="12sp" />
+
+            <ImageView
+                android:id="@+id/iv_charge_plug"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:src="@drawable/icon_charge_plug"
+                android:visibility="gone" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/txt_main_title"
+            style="@style/txt_main_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true" />
+
+        <LinearLayout
+            android:id="@+id/btn_show_menu"
+            android:layout_width="100dip"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dip"
+            android:gravity="center_vertical|right">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:background="@drawable/selector_main_right_menu" />
+        </LinearLayout>
+    </RelativeLayout>
+
+    <com.babacit.alarm.ui.view.MyHorizontalScrollView
+        android:id="@+id/bottom_horizontal"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:focusableInTouchMode="false"
+        android:scrollbars="none" />
+
+    <View
+        android:id="@+id/main_sep"
+        android:layout_width="fill_parent"
+        android:layout_height="1dip"
+        android:layout_above="@id/bottom_horizontal"
+        android:background="#eee" />
+
+    <LinearLayout
+        android:id="@+id/ll_main_head_Add"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl_main_title"
+        android:orientation="horizontal"
+        android:background="#fff"
+        android:padding="5dp">
+
+        <ImageView
+            android:id="@+id/iv_main_addNew_reminder"
+            android:padding="5dp"
+            android:cropToPadding="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:src="@drawable/btn_add_clock" />
+
+        <TextView
+            android:textSize="16sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:layout_marginLeft="10dp"
+            android:textColor="#D5D4D4"
+            android:drawableBottom="@drawable/iv_add_new_reminder_decoration"
+            android:padding="5dp"
+            android:text="@string/text_add_new_reminder" />
+
+    </LinearLayout>
+
+    <include
+        android:id="@+id/layout_main_tab1"
+        layout="@layout/main_tab_alarm_remind"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/main_sep"
+        android:layout_below="@id/ll_main_head_Add" />
+
+    <include
+        android:id="@+id/layout_main_tab2"
+        layout="@layout/main_tab_history"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/main_sep"
+        android:layout_below="@id/rl_main_title"
+        android:visibility="gone" />
+    <include
+        android:id="@+id/layout_main_tab3"
+        layout="@layout/main_tab_voice_mail"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/main_sep"
+        android:layout_below="@id/rl_main_title"
+        android:visibility="gone" />
+    <include
+        android:id="@+id/layout_main_tab4"
+        layout="@layout/main_tab_check_status"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@id/main_sep"
+        android:layout_below="@id/rl_main_title"
+        android:visibility="gone" />
+
+    <ImageView
+        android:id="@+id/iv_multi_func"
+        android:layout_width="70dip"
+        android:layout_height="76dip"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:paddingBottom="18dip"
+        android:src="@drawable/icon_multi_func_add_alarm" />
+
+    <TextView
+        android:id="@+id/tv_record_voice_hint"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@id/iv_multi_func"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="2dip"
+        android:gravity="center_horizontal"
+        android:text="按住录音，松开即发送"
+        android:textColor="#898989"
+        android:textSize="10sp"
+        android:visibility="gone" />
+
+</RelativeLayout>

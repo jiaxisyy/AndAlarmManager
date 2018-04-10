@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dlg_white_bg"
+    android:paddingLeft="20dip"
+    android:paddingRight="20dip" >
+
+    <kankan.wheel.widget.WheelView
+        android:id="@+id/wv_in_dialog"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:layout_marginBottom="20dip"
+        android:layout_marginTop="20dip" />
+
+</RelativeLayout>

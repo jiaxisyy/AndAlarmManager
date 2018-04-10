@@ -1,0 +1,15 @@
+{
+	"code":0,
+	"user":{
+		"userId":1,
+		"imgUrl":"",
+		"nickName":"小强",
+		"name":"强哥",
+		"roleInfo":"暂无",
+		"roleType":1,
+		"birthday":"1988-08-23",
+		"phoneNo":"15989354869",
+		"jobType":1
+	}
+	
+}

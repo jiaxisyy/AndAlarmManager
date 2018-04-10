@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dlg_white_bg"
+    android:padding="20dip" >
+
+    <kankan.wheel.widget.WheelView
+        android:id="@+id/wv_time_dlg_hour"
+        android:layout_width="100dip"
+        android:layout_height="wrap_content" />
+
+    <kankan.wheel.widget.WheelView
+        android:id="@+id/wv_time_dlg_mark"
+        android:layout_width="10dip"
+        android:layout_height="wrap_content" />
+
+    <kankan.wheel.widget.WheelView
+        android:id="@+id/wv_time_dlg_minute"
+        android:layout_width="100dip"
+        android:layout_height="wrap_content" />
+
+</LinearLayout>

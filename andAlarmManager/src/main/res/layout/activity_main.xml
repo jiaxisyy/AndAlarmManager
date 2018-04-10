@@ -1,0 +1,21 @@
+<com.babacit.alarm.ui.view.SlidingMenu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/id_menu"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:background="@drawable/default_main_bg"
+    android:descendantFocusability="afterDescendants"
+    android:overScrollMode="never"
+    android:scrollbars="none" >
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:orientation="horizontal" >
+
+        <include layout="@layout/layout_left_menu" />
+
+        <include layout="@layout/activity_main_tab" />
+    </LinearLayout>
+
+</com.babacit.alarm.ui.view.SlidingMenu>

@@ -1,0 +1,121 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:2:1-51:12
+INJECTED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:2:1-51:12
+	package
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:7:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:8:22-78
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:9:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:10:22-73
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:11:22-72
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:12:22-70
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:13:22-64
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:14:22-65
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:15:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:16:22-78
+uses-permission#android.permission.READ_SETTINGS
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:17:22-69
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:18:22-65
+uses-permission#android.permission.CAMERA
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:19:22-62
+application
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:22:5-49:19
+	android:label
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:24:9-41
+	android:allowBackup
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:23:9-36
+activity#com.alibaba.sdk.android.feedback.windvane.CustomHybirdActivity
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:26:9-31:57
+	android:screenOrientation
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:29:13-49
+	android:windowSoftInputMode
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:31:13-55
+	android:configChanges
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:28:13-63
+	android:theme
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:30:13-63
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:27:13-90
+activity#com.alibaba.sdk.android.feedback.impl.ErrorPageActivity
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:33:10-37:66
+	android:screenOrientation
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:36:13-49
+	android:configChanges
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:35:13-63
+	android:theme
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:37:13-63
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:34:13-83
+receiver#com.alibaba.sdk.android.feedback.impl.NetworkChangeReceiver
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:39:10-46:20
+	android:enabled
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:41:13-35
+	android:exported
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:40:13-87
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:43:13-45:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:44:17-79
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:44:25-76
+service#com.alibaba.mtl.appmonitor.AppMonitorService
+ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:48:9-80
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\feedback\src\main\AndroidManifest.xml:48:18-77

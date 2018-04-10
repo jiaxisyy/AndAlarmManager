@@ -1,0 +1,180 @@
+ECLIPSE ANDROID PROJECT IMPORT SUMMARY
+======================================
+
+Ignored Files:
+--------------
+The following files were *not* copied into the new Gradle project; you
+should evaluate whether these are still needed in your project and if
+so manually move them:
+
+From AndAlarmManager:
+* android.keystore
+* ant.properties
+* build.xml
+* ic_launcher-web.png
+* key.store
+From PullToRefreshLibrary:
+* LICENSE
+* build.xml
+* pom.xml
+From PushSDK:
+* build.gradle
+* build.xml
+From SwitchButton:
+* build.xml
+* proguard-project.txt
+From feedback:
+* build.xml
+* proguard-project.txt
+From image_library:
+* build.gradle
+* build.xml
+* pom.xml
+* test-gen\
+* test-gen\com\
+* test-gen\com\nostra13\
+* test-gen\com\nostra13\universalimageloader\
+* test-gen\com\nostra13\universalimageloader\R.java
+* test\
+* test\com\
+* test\com\nostra13\
+* test\com\nostra13\universalimageloader\
+* test\com\nostra13\universalimageloader\core\
+* test\com\nostra13\universalimageloader\core\assist\
+* test\com\nostra13\universalimageloader\core\assist\ImageSizeTest.java
+* test\com\nostra13\universalimageloader\core\download\
+* test\com\nostra13\universalimageloader\core\download\BaseImageDownloaderTest.java
+From slidelibrary:
+* LICENSE.txt
+* build.xml
+* library.iml
+* pom.xml
+From wheel:
+* build.xml
+
+Replaced Jars with Dependencies:
+--------------------------------
+The importer recognized the following .jar files as third party
+libraries and replaced them with Gradle dependencies instead. This has
+the advantage that more explicit version information is known, and the
+libraries can be updated automatically. However, it is possible that
+the .jar file in your project was of an older version than the
+dependency we picked, which could render the project not compileable.
+You can disable the jar replacement in the import wizard and try again:
+
+android-support-v4.jar => com.android.support:support-v4:19.1.0
+
+Moved Files:
+------------
+Android Gradle projects use a different directory structure than ADT
+Eclipse projects. Here's how the projects were restructured:
+
+In PullToRefreshLibrary:
+* AndroidManifest.xml => pullToRefreshLibrary\src\main\AndroidManifest.xml
+* assets\ => pullToRefreshLibrary\src\main\assets
+* res\ => pullToRefreshLibrary\src\main\res\
+* src\ => pullToRefreshLibrary\src\main\java\
+In PushSDK:
+* AndroidManifest.xml => pushSDK\src\main\AndroidManifest.xml
+* assets\ => pushSDK\src\main\assets
+* libs\alicloud-android-sdk-httpdns-1.0.7.jar => pushSDK\libs\alicloud-android-sdk-httpdns-1.0.7.jar
+* libs\arm64-v8a\libcocklogic-1.1.3.so => pushSDK\src\main\jniLibs\arm64-v8a\libcocklogic-1.1.3.so
+* libs\arm64-v8a\libtnet-3.1.11.so => pushSDK\src\main\jniLibs\arm64-v8a\libtnet-3.1.11.so
+* libs\armeabi-v7a\libcocklogic-1.1.3.so => pushSDK\src\main\jniLibs\armeabi-v7a\libcocklogic-1.1.3.so
+* libs\armeabi-v7a\libtnet-3.1.11.so => pushSDK\src\main\jniLibs\armeabi-v7a\libtnet-3.1.11.so
+* libs\armeabi\libcocklogic-1.1.3.so => pushSDK\src\main\jniLibs\armeabi\libcocklogic-1.1.3.so
+* libs\armeabi\libtnet-3.1.11.so => pushSDK\src\main\jniLibs\armeabi\libtnet-3.1.11.so
+* libs\com.umeng.message_3.1.0a.jar => pushSDK\libs\com.umeng.message_3.1.0a.jar
+* libs\mips64\libcocklogic-1.1.3.so => pushSDK\src\main\jniLibs\mips64\libcocklogic-1.1.3.so
+* libs\mips64\libtnet-3.1.11.so => pushSDK\src\main\jniLibs\mips64\libtnet-3.1.11.so
+* libs\mips\libcocklogic-1.1.3.so => pushSDK\src\main\jniLibs\mips\libcocklogic-1.1.3.so
+* libs\mips\libtnet-3.1.11.so => pushSDK\src\main\jniLibs\mips\libtnet-3.1.11.so
+* libs\utdid4all-1.1.5.3_proguard.jar => pushSDK\libs\utdid4all-1.1.5.3_proguard.jar
+* libs\x86\libcocklogic-1.1.3.so => pushSDK\src\main\jniLibs\x86\libcocklogic-1.1.3.so
+* libs\x86\libtnet-3.1.11.so => pushSDK\src\main\jniLibs\x86\libtnet-3.1.11.so
+* libs\x86_64\libcocklogic-1.1.3.so => pushSDK\src\main\jniLibs\x86_64\libcocklogic-1.1.3.so
+* libs\x86_64\libtnet-3.1.11.so => pushSDK\src\main\jniLibs\x86_64\libtnet-3.1.11.so
+* res\ => pushSDK\src\main\res\
+* src\ => pushSDK\src\main\java
+In SwitchButton:
+* AndroidManifest.xml => switchButton\src\main\AndroidManifest.xml
+* assets\ => switchButton\src\main\assets
+* res\ => switchButton\src\main\res\
+* src\ => switchButton\src\main\java\
+In feedback:
+* AndroidManifest.xml => feedback\src\main\AndroidManifest.xml
+* assets\ => feedback\src\main\assets
+* libs\alisdk-feedback.jar => feedback\libs\alisdk-feedback.jar
+* libs\app-monitor-sdk-2.5.1.1_for_bc_proguard.jar => feedback\libs\app-monitor-sdk-2.5.1.1_for_bc_proguard.jar
+* libs\arm64-v8a\libsgmain.so => feedback\src\main\jniLibs\arm64-v8a\libsgmain.so
+* libs\armeabi-v7a\libsgmain.so => feedback\src\main\jniLibs\armeabi-v7a\libsgmain.so
+* libs\armeabi\libsgmain.so => feedback\src\main\jniLibs\armeabi\libsgmain.so
+* libs\security.jar => feedback\libs\security.jar
+* libs\utdid4all-1.1.5.3_proguard.jar => feedback\libs\utdid4all-1.1.5.3_proguard.jar
+* libs\x86\libsgmain.so => feedback\src\main\jniLibs\x86\libsgmain.so
+* libs\x86_64\libsgmain.so => feedback\src\main\jniLibs\x86_64\libsgmain.so
+* res\ => feedback\src\main\res\
+* src\ => feedback\src\main\java
+In image_library:
+* AndroidManifest.xml => image_library\src\main\AndroidManifest.xml
+* assets\ => image_library\src\main\assets
+* res\ => image_library\src\main\res
+* src\ => image_library\src\main\java\
+In slidelibrary:
+* AndroidManifest.xml => slidelibrary\src\main\AndroidManifest.xml
+* assets\ => slidelibrary\src\main\assets
+* res\ => slidelibrary\src\main\res\
+* src\ => slidelibrary\src\main\java\
+In wheel:
+* AndroidManifest.xml => wheel\src\main\AndroidManifest.xml
+* assets\ => wheel\src\main\assets
+* res\ => wheel\src\main\res\
+* src\ => wheel\src\main\java\
+In AndAlarmManager:
+* AndroidManifest.xml => andAlarmManager\src\main\AndroidManifest.xml
+* assets\ => andAlarmManager\src\main\assets\
+* jni\ => andAlarmManager\src\main\jni\
+* libs\achartengine-1.1.0.jar => andAlarmManager\libs\achartengine-1.1.0.jar
+* libs\agora-rtc-sdk.jar => andAlarmManager\libs\agora-rtc-sdk.jar
+* libs\arm64-v8a\libagora-rtc-sdk-jni.so => andAlarmManager\src\main\jniLibs\arm64-v8a\libagora-rtc-sdk-jni.so
+* libs\arm64-v8a\libHDACEngine.so => andAlarmManager\src\main\jniLibs\arm64-v8a\libHDACEngine.so
+* libs\arm64-v8a\libmp3lame.so => andAlarmManager\src\main\jniLibs\arm64-v8a\libmp3lame.so
+* libs\armeabi-v7a\libagora-rtc-sdk-jni.so => andAlarmManager\src\main\jniLibs\armeabi-v7a\libagora-rtc-sdk-jni.so
+* libs\armeabi-v7a\libHDACEngine.so => andAlarmManager\src\main\jniLibs\armeabi-v7a\libHDACEngine.so
+* libs\armeabi-v7a\libmp3lame.so => andAlarmManager\src\main\jniLibs\armeabi-v7a\libmp3lame.so
+* libs\armeabi\libmp3lame.so => andAlarmManager\src\main\jniLibs\armeabi\libmp3lame.so
+* libs\com.umeng.fb.5.4.0.jar => andAlarmManager\libs\com.umeng.fb.5.4.0.jar
+* libs\flame.jar => andAlarmManager\libs\flame.jar
+* libs\httpmime-4.1.3.jar => andAlarmManager\libs\httpmime-4.1.3.jar
+* libs\nineoldandroids-2.4.0.jar => andAlarmManager\libs\nineoldandroids-2.4.0.jar
+* libs\ormlite-android-4.40.jar => andAlarmManager\libs\ormlite-android-4.40.jar
+* libs\ormlite-core-4.40.jar => andAlarmManager\libs\ormlite-core-4.40.jar
+* libs\SocialSDK_QQ_Simplify.jar => andAlarmManager\libs\SocialSDK_QQ_Simplify.jar
+* libs\SocialSDK_Sina_Simplify.jar => andAlarmManager\libs\SocialSDK_Sina_Simplify.jar
+* libs\SocialSDK_WeChat_Simplify.jar => andAlarmManager\libs\SocialSDK_WeChat_Simplify.jar
+* libs\umeng-analytics-v5.6.1.jar => andAlarmManager\libs\umeng-analytics-v5.6.1.jar
+* libs\umeng-update-v2.6.0.1.jar => andAlarmManager\libs\umeng-update-v2.6.0.1.jar
+* libs\umeng_social_api.jar => andAlarmManager\libs\umeng_social_api.jar
+* libs\umeng_social_net.jar => andAlarmManager\libs\umeng_social_net.jar
+* libs\umeng_social_shareview.jar => andAlarmManager\libs\umeng_social_shareview.jar
+* libs\x86\libagora-rtc-sdk-jni.so => andAlarmManager\src\main\jniLibs\x86\libagora-rtc-sdk-jni.so
+* libs\x86\libHDACEngine.so => andAlarmManager\src\main\jniLibs\x86\libHDACEngine.so
+* libs\zxing.jar => andAlarmManager\libs\zxing.jar
+* proguard-project.txt => andAlarmManager\proguard-project.txt
+* res\ => andAlarmManager\src\main\res\
+* src\ => andAlarmManager\src\main\java\
+
+Next Steps:
+-----------
+You can now build the project. The Gradle project needs network
+connectivity to download dependencies.
+
+Bugs:
+-----
+If for some reason your project does not build, and you determine that
+it is due to a bug or limitation of the Eclipse to Gradle importer,
+please file a bug at http://b.android.com with category
+Component-Tools.
+
+(This import summary is for your information only, and can be deleted
+after import once you are satisfied with the results.)

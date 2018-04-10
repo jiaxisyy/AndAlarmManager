@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0000" >
+
+    <RelativeLayout
+        android:id="@+id/rl_account_info_title"
+        android:layout_width="fill_parent"
+        android:layout_height="48dip"
+        android:layout_alignParentTop="true"
+        android:background="@color/title_bg_color"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/tv_account_info_title"
+            style="@style/txt_main_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="账户信息" />
+    </RelativeLayout>
+
+    <LinearLayout
+        android:id="@+id/ll_account_info"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/rl_account_info_title"
+        android:layout_marginLeft="20dip"
+        android:layout_marginRight="20dip"
+        android:orientation="vertical" >
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="14dip"
+            android:paddingTop="14dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:text="昵称"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/et_account_info_nickname"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:background="@null"
+                android:maxLength="10" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.1dip"
+            android:background="#d9dadc" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="14dip"
+            android:paddingTop="14dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:text="姓名"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/et_account_info_name"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:layout_marginTop="10dip"
+                android:background="@null"
+                android:maxLength="8" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.1dip"
+            android:background="#d9dadc" />
+
+        <RelativeLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content" >
+
+            <TextView
+                android:id="@+id/tv_role_label"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentLeft="true"
+                android:layout_marginTop="10dip"
+                android:gravity="center_vertical"
+                android:text="角色"
+                android:textSize="18sp" />
+
+            <LinearLayout
+                android:id="@+id/ll_account_info_role"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dip"
+                android:layout_toRightOf="@id/tv_role_label"
+                android:orientation="vertical" >
+
+                <RadioGroup
+                    android:id="@+id/rg_1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/rb_role_father"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:checked="true"
+                        android:text="爸爸" />
+
+                    <RadioButton
+                        android:id="@+id/rb_role_mother"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dip"
+                        android:text="妈妈" />
+
+                    <RadioButton
+                        android:id="@+id/rb_role_grandpa"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dip"
+                        android:text="爷爷" />
+                </RadioGroup>
+
+                <RadioGroup
+                    android:id="@+id/rg_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:orientation="horizontal" >
+
+                    <RadioButton
+                        android:id="@+id/rb_role_grandma"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:text="奶奶" />
+
+                    <RadioButton
+                        android:id="@+id/rb_role_other"
+                        android:layout_width="fill_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_marginLeft="20dip"
+                        android:text="其他" />
+                </RadioGroup>
+            </LinearLayout>
+        </RelativeLayout>
+
+        <EditText
+            android:id="@+id/et_role"
+            android:layout_width="fill_parent"
+            android:layout_height="48dip"
+            android:layout_marginTop="10dip"
+            android:background="@null"
+            android:hint="请输入角色名称"
+            android:maxLength="10"
+            android:visibility="gone" />
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.1dip"
+            android:background="#d9dadc" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:text="生日"
+                android:textSize="18sp" />
+
+            <Button
+                android:id="@+id/btn_birthday_pick"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip"
+                android:background="@color/transparent"
+                android:gravity="left"
+                android:text="2016年1月1日" />
+        </LinearLayout>
+
+        <View
+            android:layout_width="fill_parent"
+            android:layout_height="0.1dip"
+            android:layout_marginTop="5dip"
+            android:background="#d9dadc" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dip" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:gravity="center_vertical"
+                android:text="职业"
+                android:textSize="18sp" />
+
+            <Spinner
+                android:id="@+id/sp_career"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dip" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/ll_account_info"
+        android:layout_marginTop="10dip"
+        android:orientation="vertical"
+        android:paddingLeft="20dip"
+        android:paddingRight="20dip" >
+
+        <Button
+            android:id="@+id/btn_save_account"
+            android:layout_width="fill_parent"
+            android:layout_height="48dip"
+            android:background="@drawable/selector_round_btn"
+            android:text="保存"
+            android:textColor="@color/white"
+            android:textSize="18sp" />
+
+        <Button
+            android:id="@+id/btn_complete_later"
+            android:layout_width="fill_parent"
+            android:layout_height="48dip"
+            android:layout_marginTop="10dip"
+            android:background="@color/transparent"
+            android:text="以后完善"
+            android:textColor="#FF8F3D"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+</RelativeLayout>

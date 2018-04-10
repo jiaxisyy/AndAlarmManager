@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/dlg_white_bg"
+    android:padding="20dip" >
+
+
+    <kankan.wheel.widget.WheelView
+        android:id="@+id/wv_date_dlg_month"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="4" />
+
+    <kankan.wheel.widget.WheelView
+        android:id="@+id/wv_date_dlg_month_mark"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:visibility="gone" />
+
+    <TextView
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|left"
+        android:layout_marginTop="5dip"
+        android:layout_weight="2"
+        android:gravity="center_vertical|left"
+        android:text="月" />
+
+    <kankan.wheel.widget.WheelView
+        android:id="@+id/wv_date_dlg_day"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="4" />
+
+    <kankan.wheel.widget.WheelView
+        android:id="@+id/wv_date_dlg_day_mark"
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_weight="2"
+        android:visibility="gone" />
+
+    <TextView
+        android:layout_width="0dip"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical|left"
+        android:layout_marginTop="5dip"
+        android:layout_weight="2"
+        android:gravity="center_vertical|left"
+        android:text="日" />
+
+</LinearLayout>

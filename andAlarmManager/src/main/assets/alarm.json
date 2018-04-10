@@ -1,0 +1,97 @@
+{
+	"code":0,
+	"alarmClockList":[
+		{
+			"clockId":"1",
+			"title":"上学",
+			"status":1,
+			"times":[
+				"07:00",
+				"12:00",
+				"17:00"
+			],
+			"clockType":9,
+			"timeType":5,
+			"day":"0,2,4,6",
+			"dateType":0,
+			"holidayId":0,
+			"holidayFilter":2,
+			"date":"2015-11-25",
+			"delayTime":50,
+			"earlyTime":60,
+			"ringList":[
+				{
+					"ringType":1,
+					"ringCategory":2,
+					"ringName":"Kiss the rain",
+					"id":0,
+					"ringUrl":""
+				},
+				{
+					"ringType":2,
+					"ringCategory":3,
+					"ringName":"Castle in the sky",
+					"id":1,
+					"ringUrl":""
+				},
+				{
+					"ringType":2,
+					"ringCategory":2,
+					"ringName":"Yesterday",
+					"id":2,
+					"ringUrl":""
+				}
+				
+			],
+			"needRemind":1,
+			"remark":"备注"
+		},
+		{
+			"clockId":"1",
+			"title":"起床",
+			"status":0,
+			"times":[
+				"07:00",
+				"12:00",
+				"17:00"
+			],
+			"clockType":1,
+			"timeType":1,
+			"day":"",
+			"dateType":0,
+			"holidayId":0,
+			"holidayFilter":2,
+			"date":"2015-12-12",
+			"delayTime":50,
+			"earlyTime":60,
+			"ringList":[
+				{
+					"ringType":1,
+					"ringCategory":2,
+					"ringName":"Kiss the rain",
+					"id":3,
+					"ringUrl":""
+				},
+				{
+					"ringType":2,
+					"ringCategory":3,
+					"ringName":"Castle in the sky",
+					"id":4,
+					"ringUrl":""
+				},
+				{
+					"ringType":2,
+					"ringCategory":2,
+					"ringName":"Yesterday",
+					"id":5,
+					"ringUrl":""
+				}
+				
+			],
+			"needRemind":1,
+			"remark":"起床备注"
+		}
+		
+	]
+	
+}

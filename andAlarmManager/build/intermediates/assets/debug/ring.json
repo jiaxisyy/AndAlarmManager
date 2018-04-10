@@ -1,0 +1,36 @@
+{
+	"code":0,
+	"lastTime":"2015-11-20 16:44:22",
+	"ringList":[
+		{
+			"ringType":1,
+			"ringCategory":1,
+			"ringName":"起床了",
+			"id":213,
+			"ringUrl":"fasfasf"
+		},
+		{
+			"ringType":2,
+			"ringCategory":2,
+			"ringName":"起床了1",
+			"id":213,
+			"ringUrl":"fasfasf"
+		},
+		{
+			"ringType":3,
+			"ringCategory":3,
+			"ringName":"起床了2",
+			"id":213,
+			"ringUrl":"fasfasf"
+		},
+		{
+			"ringType":3,
+			"ringCategory":3,
+			"ringName":"起床了3",
+			"id":213,
+			"ringUrl":"fasfasf"
+		}
+		
+	]
+	
+}

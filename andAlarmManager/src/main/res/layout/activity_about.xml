@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff">
+
+    <RelativeLayout
+        android:id="@+id/rl_about_title"
+        android:layout_width="fill_parent"
+        android:layout_height="48dip"
+        android:layout_alignParentTop="true"
+        android:background="@color/title_bg_color"
+        android:gravity="center_vertical">
+
+        <ImageView
+            android:id="@+id/btn_about_back"
+            android:layout_width="25dip"
+            android:layout_height="25dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:src="@drawable/selector_back" />
+
+        <TextView
+            android:id="@+id/tv_about_title"
+            style="@style/txt_main_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="关于" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:id="@+id/rl_about_pic"
+        android:layout_width="fill_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/rl_about_title"
+        android:background="@drawable/modification_iv_about"
+        android:orientation="vertical"
+        android:paddingLeft="10dip"
+        android:paddingRight="10dip">
+        <!--这局代码是之前上面RL的属性-->
+        <!--android:layout_marginTop="20dip"-->
+
+        <!--<ImageView-->
+        <!--android:id="@+id/img_icon"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:src="@drawable/icon_about_brand" />-->
+
+        <!--<TextView-->
+        <!--android:id="@+id/tv_describe"-->
+        <!--android:layout_width="fill_parent"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_below="@id/img_icon"-->
+        <!--android:layout_marginTop="10dip"-->
+        <!--android:lineSpacingExtra="8dip"-->
+        <!--android:text="@string/txt_about_info"-->
+        <!--android:textColor="#666666"-->
+        <!--android:textSize="14sp" />-->
+
+        <!--<ImageView-->
+        <!--android:id="@+id/img_public_signal"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_below="@id/tv_describe"-->
+        <!--android:src="@drawable/icon_about_scan_code" />-->
+
+        <!--<TextView-->
+        <!--android:id="@id/img_public_signal"-->
+        <!--android:layout_width="wrap_content"-->
+        <!--android:layout_height="wrap_content"-->
+        <!--android:layout_alignParentBottom="true"-->
+        <!--android:layout_centerHorizontal="true"-->
+        <!--android:text="关注记忆猫公众号，获取最新的信息"-->
+        <!--android:textColor="#666666"-->
+        <!--android:textSize="12sp" />-->
+    </RelativeLayout>
+</RelativeLayout>

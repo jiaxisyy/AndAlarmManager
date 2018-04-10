@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main$Generated" generated="true"><source path="C:\Android\work\AndAlarmManager\feedback\src\main\res"/><source path="C:\Android\work\AndAlarmManager\feedback\build\generated\res\rs\debug"/><source path="C:\Android\work\AndAlarmManager\feedback\build\generated\res\resValues\debug"/></dataSet><dataSet config="main" generated-set="main$Generated"><source path="C:\Android\work\AndAlarmManager\feedback\src\main\res"><file name="ali_feedback_commont_title_btn_text" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable\ali_feedback_commont_title_btn_text.xml" qualifiers="" type="drawable"/><file name="ali_feedback_common_back_btn_bg" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable\ali_feedback_common_back_btn_bg.xml" qualifiers="" type="drawable"/><file name="ali_feedback_icon_redpoint" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable\ali_feedback_icon_redpoint.xml" qualifiers="" type="drawable"/><file name="ali_feedback_popup_bg" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable\ali_feedback_popup_bg.xml" qualifiers="" type="drawable"/><file name="ali_feedback_progress_bar_states" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable\ali_feedback_progress_bar_states.xml" qualifiers="" type="drawable"/><file name="yw_1222" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable\yw_1222.jpg" qualifiers="" type="drawable"/><file name="ic_launcher" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable-hdpi\ic_launcher.png" qualifiers="hdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable-mdpi\ic_launcher.png" qualifiers="mdpi-v4" type="drawable"/><file name="ic_launcher" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable-xhdpi\ic_launcher.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ali_feedback_common_back_btn_normal" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable-xhdpi-v4\ali_feedback_common_back_btn_normal.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ali_feedback_common_back_btn_pressed" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable-xhdpi-v4\ali_feedback_common_back_btn_pressed.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ali_feedback_icon_back_white" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable-xhdpi-v4\ali_feedback_icon_back_white.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ali_feedback_icon_more" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable-xhdpi-v4\ali_feedback_icon_more.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ali_feedback_ic_element_noresult" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable-xhdpi-v4\ali_feedback_ic_element_noresult.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ali_feedback_pub_btn_white_nor" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\drawable-xhdpi-v4\ali_feedback_pub_btn_white_nor.9.png" qualifiers="xhdpi-v4" type="drawable"/><file name="ali_feedback_container_layout" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\layout\ali_feedback_container_layout.xml" qualifiers="" type="layout"/><file name="ali_feedback_error" path="C:\Android\work\AndAlarmManager\feedback\src\main\res\layout\ali_feedback_error.xml" qualifiers="" type="layout"/><file path="C:\Android\work\AndAlarmManager\feedback\src\main\res\values\strings.xml" qualifiers=""><string name="app_name">feedback</string></file><file path="C:\Android\work\AndAlarmManager\feedback\src\main\res\values\styles.xml" qualifiers=""><style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style><style name="AppTheme" parent="AppBaseTheme">
+        
+    </style></file><file path="C:\Android\work\AndAlarmManager\feedback\src\main\res\values\values.xml" qualifiers=""><color name="ali_feedback_black">#ff000000</color><color name="ali_feedback_color_white">#ffffff</color><color name="ali_feedback_default_title_color">#051b28</color><color name="ali_feedback_grey_btn_default">#cccccc</color><color name="ali_feedback_halftransparentwhite">#7FFFFFFF</color><color name="ali_feedback_normal_title_bg">#00b4ff</color><color name="ali_feedback_red">#FF0000</color><color name="ali_feedback_white">#ffffffff</color><color name="ali_feedback_wxtribe_title_color">#333333</color><dimen name="ali_feedback_column_up_unit_margin">10dip</dimen><dimen name="ali_feedback_common_text_size">17sp</dimen><dimen name="ali_feedback_small_text_size">13sp</dimen><dimen name="ali_feedback_title_bar_height">45dip</dimen><dimen name="ali_feedback_title_middle_margin">60dip</dimen><style name="ali_feedback_common_title_left_btn_shadow">
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@drawable/ali_feedback_commont_title_btn_text</item>
+        <item name="android:textSize">@dimen/ali_feedback_common_text_size</item>
+        <item name="android:drawableLeft">@null</item>
+        <item name="android:layout_marginLeft">5dip</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:background">@drawable/ali_feedback_icon_back_white</item>
+        <item name="android:includeFontPadding">false</item>
+    </style><style name="ali_feedback_common_title_style">
+        <item name="android:background">@color/ali_feedback_color_white</item>
+        <item name="android:gravity">center_vertical</item>
+        <item name="android:layout_width">fill_parent</item>
+        <item name="android:layout_height">@dimen/ali_feedback_title_bar_height</item>
+    </style><style name="ali_feedback_common_title_text_shadow">
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:ellipsize">middle</item>
+        <item name="android:textColor">@color/ali_feedback_color_white</item>
+        <item name="android:textSize">@dimen/ali_feedback_common_text_size</item>
+        <item name="android:paddingLeft">@dimen/ali_feedback_title_middle_margin</item>
+        <item name="android:paddingRight">@dimen/ali_feedback_title_middle_margin</item>
+    </style><style name="ali_feedback_commont_title_right_btn_shadow">
+        <item name="android:gravity">center</item>
+        <item name="android:singleLine">true</item>
+        <item name="android:textColor">@color/ali_feedback_color_white</item>
+        <item name="android:textSize">@dimen/ali_feedback_small_text_size</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:includeFontPadding">false</item>
+        <item name="android:layout_marginRight">@dimen/ali_feedback_column_up_unit_margin</item>
+        <item name="android:background">@drawable/ali_feedback_icon_more</item>
+    </style><style name="ali_feedback_contentoverlay" parent="@android:style/Theme">
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <item name="android:screenOrientation">portrait</item>
+        <item name="android:windowBackground">@null</item>
+    </style></file><file path="C:\Android\work\AndAlarmManager\feedback\src\main\res\values-v11\styles.xml" qualifiers="v11"><style name="AppBaseTheme" parent="android:Theme.Holo.Light">
+        
+    </style></file><file path="C:\Android\work\AndAlarmManager\feedback\src\main\res\values-v14\styles.xml" qualifiers="v14"><style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
+        
+    </style></file></source><source path="C:\Android\work\AndAlarmManager\feedback\build\generated\res\rs\debug"/><source path="C:\Android\work\AndAlarmManager\feedback\build\generated\res\resValues\debug"/></dataSet><dataSet config="debug$Generated" generated="true"><source path="C:\Android\work\AndAlarmManager\feedback\src\debug\res"/></dataSet><dataSet config="debug" generated-set="debug$Generated"><source path="C:\Android\work\AndAlarmManager\feedback\src\debug\res"/></dataSet><mergedItems/></merger>

@@ -1,0 +1,1558 @@
+[
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_sleep_setting.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_sleep_setting.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_share_qq_weibo.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_share_qq_weibo.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_indicator_arrow.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_chatfrom_bg.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\chatfrom_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_reply_item_text.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_reply_item_text.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chatto_voice_playing_r.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\chatto_voice_playing_r.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ali_feedback_icon_back_white.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ali_feedback_icon_back_white.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_check_status_fullscreen.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_check_status_fullscreen.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pattern_lock_skin_common_btn_green_disable.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\pattern_lock_skin_common_btn_green_disable.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_festival_remind_alarm.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_festival_remind_alarm.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout-v9_umeng_common_download_notification.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout-v9\\umeng_common_download_notification.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_share_grid_item.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\share_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_layout_choose_music.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\layout_choose_music.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_fetch_btn.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_fetch_btn.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_qzone.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_qzone.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_progress_medium.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\progress_medium.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share_cap_wechat.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\share_cap_wechat.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_reply_item_audio.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_reply_item_audio.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_umeng_fb_audio_play_03.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\umeng_fb_audio_play_03.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_umeng_fb_dialog_exit_anim.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\umeng_fb_dialog_exit_anim.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_share.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_share.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_fragment.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ali_feedback_icon_more.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ali_feedback_icon_more.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_share_wechat_friends.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_share_wechat_friends.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg_record_voice.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\bg_record_voice.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_md_switch_thumb_disable.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\switchButton\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\md_switch_thumb_disable.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_umeng_socialize_fade_out.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\umeng_socialize_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_lunar_switch_on.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_lunar_switch_on.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_voice_rcd_hint_bg.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\voice_rcd_hint_bg.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_voice_rcd_hint.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\voice_rcd_hint.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fetch_btn_d.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\fetch_btn_d.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_feedback.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_feedback.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_default_ptr_rotate.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_multi_func_record_voice_disable.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_multi_func_record_voice_disable.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_md_switch_thumb_on_pressed.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\switchButton\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\md_switch_thumb_on_pressed.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_tb_munion_item_selector.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\tb_munion_item_selector.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_default_ptr_rotate.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_wxcircle.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_wxcircle.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_umeng_fb_audio_play_01.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\umeng_fb_audio_play_01.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_history_list_item.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\history_list_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_amp1.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\amp1.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_round_pie_bg_3.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\round_pie_bg_3.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_guide.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_guide.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_honey_list_item.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\honey_list_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pattern_lock_card_avatar.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\pattern_lock_card_avatar.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_choose_ring.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_choose_ring.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_update_button_ok_bg_normal.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_share_music.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_share_music.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_horizontal_item.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\horizontal_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_bg_dialog_voice_reminder.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xxhdpi\\bg_dialog_voice_reminder.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_default_ptr_flip.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-mdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_socialize_share.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_socialize_share.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_default_main_bg.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\default_main_bg.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_share_web.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_share_web.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_right_menu_p.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_right_menu_p.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ali_feedback_common_back_btn_normal.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ali_feedback_common_back_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_main_tab_check_status.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_main_tab_check_status.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_layout_right_menu.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\layout_right_menu.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_round_text_bg_2.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\round_text_bg_2.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_multi_func_record_voice_enable.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_multi_func_record_voice_enable.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_tab_text_color.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_tab_text_color.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_pattern_lock_gesturepassword_create.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\pattern_lock_gesturepassword_create.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_md_thumb.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\switchButton\\build\\intermediates\\packaged_res\\debug\\drawable\\md_thumb.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_share_qzone.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_share_qzone.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_update_button_cancel_bg_selector.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_yw_1222.jpg.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\drawable\\yw_1222.jpg"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share_cap_sina_weibo.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\share_cap_sina_weibo.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_item.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_about.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_about.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dlg_white_bg.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\dlg_white_bg.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_modification_app_icon.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\mipmap-xxhdpi\\modification_app_icon.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_portrait_default.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\portrait_default.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_chime_setting.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_chime_setting.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_del_alarm.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_del_alarm.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_amp3.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\amp3.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_alarm_list_item.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\alarm_list_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_online.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_online.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_audio_dialog.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_audio_dialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_round_button_shape_disable.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\round_button_shape_disable.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_title_share_p.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_title_share_p.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_round_btn.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_round_btn.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_login_register.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_login_register.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_umeng_fb_keyboard.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\umeng_fb_keyboard.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_multi_func_add_alarm.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_multi_func_add_alarm.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_fb_action_replay.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_fb_action_replay.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_pattern_lock_gesture_password_unlock.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\pattern_lock_gesture_password_unlock.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chatto_voice_playing_l.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\chatto_voice_playing_l.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_water_medicine_alarm.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_water_medicine_alarm.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_charge_percent.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\icon_charge_percent.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_fav.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_fav.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chatfrom_bg_pressed.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\chatfrom_bg_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_ali_feedback_icon_redpoint.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\drawable\\ali_feedback_icon_redpoint.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_bottom.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_customprogressdialog.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\customprogressdialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_red_flower.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_red_flower.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_back.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_back.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_tb_munion_adview.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\tb_munion_adview.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_welcome.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\welcome.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_birthday_manager_alarm.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_birthday_manager_alarm.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_update_dialog_bg.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_update_dialog_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_mail_p.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_mail_p.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_input_conversation.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_input_conversation.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_time_wheel_dialog_fragment.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\time_wheel_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_reply_item_image.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_reply_item_image.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_check_status_n.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_check_status_n.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_menu_default.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_menu_default.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_edit_bg.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_edit_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_expand.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_expand.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_multi_func_camera_disable.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_multi_func_camera_disable.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_ali_feedback_error.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\layout\\ali_feedback_error.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pattern_lock_gesture_pattern_selected_wrong.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\pattern_lock_gesture_pattern_selected_wrong.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_my_dialog_fragment.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\my_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\raw_beep.ogg.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\raw\\beep.ogg"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_share_video.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_share_video.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_welcome.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xxhdpi\\welcome.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_umeng_socialize_slide_out_from_bottom.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\umeng_socialize_slide_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_rcd_cancel_icon.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\rcd_cancel_icon.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_vertical.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\layout\\pull_to_refresh_header_vertical.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_layout_wheel.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\layout_wheel.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_login_frame_n.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\bg_login_frame_n.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_ali_feedback_container_layout.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\layout\\ali_feedback_container_layout.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_pattern_lock_common_btn_green.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\pattern_lock_common_btn_green.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_cancel_rc.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\cancel_rc.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_welcome.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\welcome.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_dlg_black_bg.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\dlg_black_bg.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_daily_remind_alarm.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_daily_remind_alarm.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ali_feedback_common_back_btn_pressed.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ali_feedback_common_back_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_btn_bg.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_main_tab_mail.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_main_tab_mail.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_btn_p.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\white_btn_p.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_ring_check.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_ring_check.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_back_p.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_back_p.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pattern_lock_gesture_create_grid_bg.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\pattern_lock_gesture_create_grid_bg.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_update_button_close_bg_selector.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_update_button_close_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_layout_choose_voice.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\layout_choose_voice.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_about_brand.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_about_brand.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_contact.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_contact.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_layout_left_menu.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\layout_left_menu.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_voice_mail_item_left.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\voice_mail_item_left.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_history_p.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_history_p.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_item_p.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\list_item_p.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_update_button_cancel_bg_tap.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_tap.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_del_alarm_p.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_del_alarm_p.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_screen_capture.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_screen_capture.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_share_wechat.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_share_wechat.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_test.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_white_btn.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_white_btn.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_chatto_bg.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\chatto_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_umeng_update_close_bg_tap.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_tap.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pattern_lock_skin_common_btn_red_pressed.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\pattern_lock_skin_common_btn_red_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_pull_to_refresh_header_horizontal.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\layout\\pull_to_refresh_header_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_default_ptr_flip.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_umeng_socialize_shareboard_animation_in.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_in.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_setting.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_setting.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_wheel_val.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\wheel\\build\\intermediates\\packaged_res\\debug\\drawable\\wheel_val.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pattern_lock_skin_common_btn_green_normal.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\pattern_lock_skin_common_btn_green_normal.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_bg_voice_play.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\bg_voice_play.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_voice_too_short.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\voice_too_short.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_help.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_help.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_umeng_fb_audio_play_bg.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\umeng_fb_audio_play_bg.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_back_n.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_back_n.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_eyes_protect_alarm.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_eyes_protect_alarm.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_main_tab_alarm_remind.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\main_tab_alarm_remind.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fetch_btn_n.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\fetch_btn_n.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_check_status_p.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_check_status_p.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_right_menu_n.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_right_menu_n.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_anniversary_alarm.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_anniversary_alarm.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dialog.gif.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xxhdpi\\dialog.gif"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_mail_n.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_mail_n.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_ali_feedback_common_back_btn_bg.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\drawable\\ali_feedback_common_back_btn_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_flower_target_setting.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_flower_target_setting.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_pattern_lock_shake_x.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\pattern_lock_shake_x.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_round_text_bg.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_round_text_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_main_tab_clock.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_main_tab_clock.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_simple_list_item.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\simple_list_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_main_tab.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_main_tab.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_charge_plug.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_charge_plug.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_account_settings.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_account_settings.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_title_share.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_title_share.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_umeng_fb_audio_dialog_cancel.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\umeng_fb_audio_dialog_cancel.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_audition.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_audition.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_pattern_lock_interpolator_cycle.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\pattern_lock_interpolator_cycle.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_main_tab_history.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_main_tab_history.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pattern_lock_gesture_guide_pic.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\pattern_lock_gesture_guide_pic.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share_cap_qzone.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\share_cap_qzone.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_charge_plug.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\icon_charge_plug.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share_cap_qq.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\share_cap_qq.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_vacation_setting.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_vacation_setting.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_bg_login.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_bg_login.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_btn_add_clock.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xxhdpi\\btn_add_clock.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_pattern_lock_welcome_bg.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\pattern_lock_welcome_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_umeng_update_btn_check_on_holo_light.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_holo_light.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_voice.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\voice.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_iv_welcome.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xxhdpi\\iv_welcome.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_img_loading.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\img_loading.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pattern_lock_gesture_pattern_selected.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\pattern_lock_gesture_pattern_selected.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_capture.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_capture.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_umeng_fb_record.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\umeng_fb_record.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_iv_add_new_reminder_decoration.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xxhdpi\\iv_add_new_reminder_decoration.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_modification_app_icon.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\mipmap-xxxhdpi\\modification_app_icon.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_amp2.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\amp2.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_md_back_on.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\switchButton\\build\\intermediates\\packaged_res\\debug\\drawable\\md_back_on.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_umeng_socialize_slide_in_from_bottom.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\umeng_socialize_slide_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_contact_spinner.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_contact_spinner.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ali_feedback_pub_btn_white_nor.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ali_feedback_pub_btn_white_nor.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_tb_munion_icon.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\tb_munion_icon.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_dialog_tonality.gif.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xxhdpi\\dialog_tonality.gif"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_back_icon.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_back_icon.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_about.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_flower_p.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_flower_p.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_update_button_cancel_bg_normal.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_normal.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_record_voice.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_record_voice.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_indicator_arrow.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_delete.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_delete.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_update_title_bg.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_update_title_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_icon_mybaby.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\mipmap-xxhdpi\\icon_mybaby.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_bind_terminal_by_input.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_bind_terminal_by_input.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_pattern_lock_shake.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\pattern_lock_shake.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_default_ptr_flip.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\default_ptr_flip.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_input_contact.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_input_contact.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guide_3.jpg.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\guide_3.jpg"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout-sw550dp-large_umeng_socialize_oauth_dialog.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout-sw550dp-large\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_umeng_fb_dialog_enter_anim.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\umeng_fb_dialog_enter_anim.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_check_status_end.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_check_status_end.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_qq.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_qq.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_grid_dialog_fragment.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\grid_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_update_wifi_disable.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_update_wifi_disable.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_activity_help.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_activity_help.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pattern_lock_gesture_create_grid_selected.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\pattern_lock_gesture_create_grid_selected.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_lunar_switch.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_lunar_switch.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_main_tab_history.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\main_tab_history.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_history_finish_btn.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_history_finish_btn.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_lunar_switch_off.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_lunar_switch_off.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_round_button_shape_normal.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\round_button_shape_normal.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_common_gradient_orange.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_common_gradient_orange.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_charge_bg.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\icon_charge_bg.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_pattern_lock_application_bg_welcome.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\pattern_lock_application_bg_welcome.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_pattern_lock_common_btn_red.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\pattern_lock_common_btn_red.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_charge_bg.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_charge_bg.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_amp4.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\amp4.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_default_ptr_rotate.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\default_ptr_rotate.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_image_dialog.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_image_dialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_slidingmenumain.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\slidelibrary\\build\\intermediates\\packaged_res\\debug\\layout\\slidingmenumain.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_pattern_lock_shake_y.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\pattern_lock_shake_y.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pattern_lock_skin_common_btn_green_pressed.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\pattern_lock_skin_common_btn_green_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_multi_func_history.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_multi_func_history.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_round_text_bg_3.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\round_text_bg_3.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_clock_n.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_clock_n.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_icon_add_water.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\icon_add_water.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_layout_choose_ring.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\layout_choose_ring.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_common_gradient_green.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_common_gradient_green.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_round_text_bg_1.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\round_text_bg_1.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_tb_munion_aditem.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\tb_munion_aditem.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_role.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_change_role.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_fragment_question.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_fragment_question.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_fb_arrow_right.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_fb_arrow_right.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_change_phone_num.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_change_phone_num.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guide_2.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\guide_2.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_round_btn1.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_round_btn1.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_water_medicine_list_item.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\water_medicine_list_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_history_n.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\history_n.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_md_switch_thumb_off_pressed.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\switchButton\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\md_switch_thumb_off_pressed.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_update_dialog.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_update_dialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_share_qq.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_share_qq.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_audition_play.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_audition_play.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_round_pie_bg_2.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\round_pie_bg_2.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_md_back_off.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\switchButton\\build\\intermediates\\packaged_res\\debug\\drawable\\md_back_off.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_copyurl.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_copyurl.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pattern_lock_skin_common_btn_red_unpressed.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\pattern_lock_skin_common_btn_red_unpressed.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_unread.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\unread.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_history_p.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\history_p.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_bind_termination_by_scan.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_bind_termination_by_scan.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_update_button_ok_bg_tap.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_tap.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_icon_mybaby.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\mipmap-xxxhdpi\\icon_mybaby.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_umeng_fb_audio_play_anim.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\umeng_fb_audio_play_anim.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_clock_p.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_clock_p.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_del_alarm_n.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_del_alarm_n.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_umeng_fb_audio_play_02.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\umeng_fb_audio_play_02.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_welcome_item.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_welcome_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_guide_1.jpg.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\guide_1.jpg"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_check_status_start.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_check_status_start.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_account_info.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_account_info.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_voice_rcd_cancel_bg_focused.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\voice_rcd_cancel_bg_focused.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_ali_feedback_commont_title_btn_text.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\drawable\\ali_feedback_commont_title_btn_text.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_flower_n.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_flower_n.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_upush_notification.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pushSDK\\build\\intermediates\\packaged_res\\debug\\layout\\upush_notification.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_about_scan_code.jpg.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_about_scan_code.jpg"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_socialize_oauth_dialog.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_socialize_oauth_dialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_modification_iv_about.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xxhdpi\\modification_iv_about.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_modification_app_icon.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\mipmap-xhdpi\\modification_app_icon.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_recorder.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_recorder.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_custom_alarm.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_custom_alarm.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pattern_lock_skin_common_btn_red_disabled.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\pattern_lock_skin_common_btn_red_disabled.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_grid_dialog.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\grid_dialog.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_share_grid_dialog_fragment.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\share_grid_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_unread.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\unread.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_copy.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_copy.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_btn_1_n.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\white_btn_1_n.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_ring_list_item.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\ring_list_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_indicator_arrow.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable-hdpi-v4\\indicator_arrow.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_multi_func_camera_enable.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_multi_func_camera_enable.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_getup_alarm.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_getup_alarm.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_voice_rcd_cancel_bg.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\voice_rcd_cancel_bg.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_history_n.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_history_n.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share_cap_tencent_weibo.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\share_cap_tencent_weibo.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chatto_bg_focused.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_main_right_menu.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_main_right_menu.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_top.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_out_to_top.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_fb_round_white_bg.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_fb_round_white_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_sina.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_sina.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_round_pie_bg_1.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\round_pie_bg_1.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_audition_pause.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_audition_pause.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_update_button_cancel_bg_focused.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_update_button_cancel_bg_focused.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_md_switch_thumb_off_normal.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\switchButton\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\md_switch_thumb_off_normal.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_voice_mail_item_right.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\voice_mail_item_right.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_add_device.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_add_device.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_circle_wheel_dialog_fragment.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\circle_wheel_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_share_cap_wechat_friends.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\share_cap_wechat_friends.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_common_gradient_red.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_common_gradient_red.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_bg_login_frame_p.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\bg_login_frame_p.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_more.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_more.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_month_day_wheel_dialog_fragment.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\month_day_wheel_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_umeng_update_btn_check_off_pressed_holo_light.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_pressed_holo_light.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_umeng_socialize_shareboard_animation_out.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\umeng_socialize_shareboard_animation_out.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_umeng_socialize_fade_in.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\umeng_socialize_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_activity_conversation.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_activity_conversation.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_amp7.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\amp7.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_help.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_help.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_date_wheel_dialog_fragment.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\date_wheel_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_cancel_rc2.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\anim\\cancel_rc2.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_main_tab_voice_mail.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\main_tab_voice_mail.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_ali_feedback_ic_element_noresult.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\ali_feedback_ic_element_noresult.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_white_btn_n.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\white_btn_n.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_homework_remind_alarm.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_homework_remind_alarm.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_update_button_check_selector.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_update_button_check_selector.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_umeng_update_btn_check_on_focused_holo_light.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_focused_holo_light.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_pattern_lock_scrollbar_handle_vertical.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\pattern_lock_scrollbar_handle_vertical.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_welcome.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-mdpi\\welcome.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_lunar_wheel_dialog_fragment.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\lunar_wheel_dialog_fragment.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_umeng_fb_input_conversation_audio.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\umeng_fb_input_conversation_audio.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_bottom.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable\\indicator_bg_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_title_share_n.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_title_share_n.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_flower_info.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_flower_info.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_ali_feedback_progress_bar_states.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\drawable\\ali_feedback_progress_bar_states.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_amp5.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\amp5.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_baby_info.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_baby_info.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_ali_feedback_popup_bg.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\feedback\\build\\intermediates\\packaged_res\\debug\\drawable\\ali_feedback_popup_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_grid_item.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_pattern_lock_gesture_pattern_item_bg.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\pattern_lock_gesture_pattern_item_bg.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_share_weibo.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_share_weibo.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_slide_out_to_bottom.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_out_to_bottom.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_cursor.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\cursor.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_update_button_ok_bg_selector.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_selector.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_update_button_ok_bg_focused.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_update_button_ok_bg_focused.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_selector_flower.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\selector_flower.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chatfrom_bg_focused.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_umeng_fb_plus.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\umeng_fb_plus.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_amp6.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\amp6.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\anim_slide_in_from_top.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\anim\\slide_in_from_top.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_indicator_bg_top.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\pullToRefreshLibrary\\build\\intermediates\\packaged_res\\debug\\drawable\\indicator_bg_top.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_icon_charge_percent.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\icon_charge_percent.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_flower_statistic.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_flower_statistic.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_modification_iv_welcome.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xxhdpi\\modification_iv_welcome.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_umeng_update_btn_check_off_holo_light.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_holo_light.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_pattern_lock_skin_color_button.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\pattern_lock_skin_color_button.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_md_switch_thumb_on_normal.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\switchButton\\build\\intermediates\\packaged_res\\debug\\drawable-xhdpi-v4\\md_switch_thumb_on_normal.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_chatto_bg_pressed.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\chatto_bg_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_socialize_wechat.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_socialize_wechat.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_umeng_update_btn_check_on_pressed_holo_light.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_on_pressed_holo_light.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_dialog_voice_reminder.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\dialog_voice_reminder.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_umeng_update_close_bg_normal.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\umeng_update_close_bg_normal.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_umeng_fb_audio_dialog_content.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-xhdpi\\umeng_fb_audio_dialog_content.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_fetch_btn_p.9.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\fetch_btn_p.9.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_activity_common_setting.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\activity_common_setting.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_radio_item.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\radio_item.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_main_tab_check_status.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\main_tab_check_status.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_umeng_update_btn_check_off_focused_holo_light.png.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable-hdpi\\umeng_update_btn_check_off_focused_holo_light.png"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_round_bar_bg.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\round_bar_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_voice_rcd_hint_window.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\voice_rcd_hint_window.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_umeng_fb_help_tab_bg.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\umeng_fb_help_tab_bg.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\drawable_round_button_shape_focus.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\drawable\\round_button_shape_focus.xml"
+    },
+    {
+        "merged": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\build\\intermediates\\res\\merged\\debug\\layout_grid_image_item.xml.flat",
+        "source": "C:\\Android\\work\\AndAlarmManager\\andAlarmManager\\src\\main\\res\\layout\\grid_image_item.xml"
+    }
+]

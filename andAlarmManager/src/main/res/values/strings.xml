@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">我的宝贝</string>
+    <string name="txt_register">注册</string>
+    <string name="txt_login">登录</string>
+    <string name="txt_confirm">确定</string>
+    <string name="txt_fetch_verification_code">获取验证码</string>
+    <string name="txt_next_step">下一步</string>
+    <string name="txt_forget_password_question_mark">忘记密码</string>
+    <string name="txt_reset_password">重置密码</string>
+    <string name="txt_please_input_new_password">请输入新密码</string>
+    <string name="txt_phone_number_wrong_format">请输入正确的手机号码！</string>
+    <string name="txt_phone_number_cannot_be_empty">手机号码不能为空！</string>
+    <string name="txt_password_cannot_be_empty">密码不能为空！</string>
+    <string name="txt_password_length_short_than_eight">密码为8-12位字母及数字组合，请重新输入！</string>
+    <string name="txt_password_not_valid">密码必须为字母及数字组合！</string>
+    <string name="txt_retry_after_seconds">秒后重试</string>
+    <string name="txt_verification_code_cannot_be_empty">验证码不能为空！</string>
+    <string name="txt_password_not_equal">输入的密码不一致！</string>
+    <string name="txt_tab_message">闹钟提醒</string>
+    <string name="txt_tab_course">历史记录</string>
+    <string name="txt_tab_contacts_list">留言信箱</string>
+    <string name="txt_tab_mine">查看状态</string>
+    <string name="txt_bind_termination">绑定终端</string>
+    <string name="scan_text"/>
+    <string name="txt_product_name">小巴智能提醒机器人</string>
+    <string name="txt_about_info">        \"记忆猫\"是【记忆猫智能教育机器人】的操控软件。\n        【记忆猫智能教育机器人】是由广州市脑力大都慧文化传播有限责任公司和佛山巴巴云智科技有限公司全力打造的一款智能机器人。</string>
+    <string name="txt_help_content">1、绑定多个终端如何切换？\n        请先点击APP顶部右侧的菜单栏，弹出右侧菜单后，选择需要切换的终端用户列表，点击头像或名称即可进行切换。\n\n2、小红花设置奖励\n        点击APP顶部的头像，即可进入终端信息菜单，在左侧的终端信息菜单弹出后，点击小红花即可进入查看小红花状态，在小红花界面点击目标值部分即可进入小红花奖励的设置界面。\n\n3、闹钟各种模式介绍\n        1）起床闹钟\n        针对早起设计的人性化闹钟，内置多种针对儿童选取的活泼向上的铃声，并针对早起有人性化的懒床时间设置，铃声会以音量从低到高的模式进行播放，起到唤醒的效果，避免大音量的惊醒这种不人性化的设置。\n        2）作业提醒\n        针对儿童的作业时间，可设置儿童的作业时间段，可以录制语音提醒的模式，以方便家长对儿童时间的管理；可设置儿童作业的开始时间和结束时间，并可设置完成情况的确认，在结束时间时确认孩子是否完成作业，以便家长更加快捷孩子的状态。\n        3）生日管家\n        对于家人生日这种一年一次的日期，孩子不容易记住，为此通过生日管家在家人生日之前提醒儿童，并可录制语音提醒儿童送上生日祝福，进而培养儿童的良好习惯教养。\n        4）纪念日\n        各种需要纪念的日期，类似生日管家。\n        5）节日提醒\n        预设了主要的国内外节假日，并根据国内有些地方节日日期稍有不同，可自行进行调整。\n        6）日常提醒\n        即用户设置的普通闹钟/提醒；可设置一次性或周期性闹钟/提醒，主要针对用户日常生活中的常见提醒。\n        7）眼保健操\n        为保护儿童视力特别设计的眼保健操提醒。\n        8）喝水/吃药\n        比较常见为喝水或吃药提醒，家长可根据需要设置这个闹钟可设置一天内多次响闹，可应对一天需要多次提醒的各种事项。\n        9）自定义\n        即用户设置的普通的闹钟/提醒；与日常提醒类似。\n\n4、如何绑定智能终端？\n        在主界面中，点击右上角的菜单键，弹出右侧菜单后，再选择“添加设备”，即可进入绑定智能终端的界面。可根据提示进行绑定操作。\n\n5、为什么设置后手机不响？\n        “记忆猫”是针对“小巴智能提醒机器人”设计的控制APP，设置后本机是不会有闹铃、提醒，设置的提醒只针对绑定的智能终端有效。\n\n6、为什么设置了寒暑假相关却不起作用？ \n        闹钟或提醒设置了寒暑假时间段相关的设置，是需要设置好寒暑假时间段才会生效的，寒暑假时间段在“记忆猫”app中，点击顶部头像进入终端信息设置，再点击暑假时间、寒假时间，即可进入设置寒暑假时间段设置，请记得每年更新孩子的寒暑假时间段以确保时间的准确。\n\n7、监控/查看，10次后无法使用？\n        服务器运营成本的压力，暂时只提供10次的免费查看机会，用户可在APP中进行分享软件或孩子的照片来增加查看的机会，每分享一次可增加一次查看机会。\n\n8、监控/查看，只能看到60秒，无法长时间查看孩子的活动？\n        
+孩子需要自由的空间，为了保障孩子的隐私，产品设计只能查看60秒。\n\n9、消息接收不到？\n        消息收不到一般是由以下两种情况：\n        1）网络连接问题，请查看手机是否联网，如果手机未连接WIFI且没有数据网络，那么是无法收到消息的，请连接WIFI或打开蜂窝移动网络；\n        2）通知被关闭:（iPhone、iPad）请在设置－通知中打开“记忆猫”的通知，以确保消息能够及时推送到您的手机上，谢谢！（Android手机）请在设置－应用消息通知中打开“记忆猫”的消息通知，以确保消息能够及时推送到您的手机上。\n\n10、无法设置闹钟？\n        1）使用的APP是否注册，如果没有请注册。\n        2）请查看手机是否连接上网络，如果手机无网络连接，请连接上网络再设置。\n        3）请查看手机是否有绑定“小巴智能提醒机器人”终端，如果未绑定任何终端，请先绑定“小巴智能提醒机器人”终端再设置。</string>
+    <!-- Patter lock  begin -->
+    <string name="lockscreen_access_pattern_start">"开始绘制图案"</string>
+    <string name="lockscreen_access_pattern_cleared">"图案已清除"</string>
+    <string name="lockscreen_access_pattern_cell_added">"已添加单元格"</string>
+    <string name="lockscreen_access_pattern_detected">"图案绘制完成"</string>
+    <string name="lockpattern_retry_button_text">"重试"</string>
+    <string name="lockpattern_continue_button_text">"继续"</string>
+    <string name="lockpattern_confirm_button_text">"确认"</string>
+    <string name="lockpattern_recording_intro_header">"绘制解锁图案"</string>
+    <string name="lockpattern_settings_help_how_to_record">"如何绘制解锁图案"</string>
+    <string name="lockpattern_recording_incorrect_too_short">"至少连接4个点，请重试"</string>
+    <string name="lockpattern_pattern_entered_header">"图案已记录"</string>
+    <string name="lockpattern_need_to_confirm">"请再次绘制解锁图案"</string>
+    <string name="lockpattern_need_to_unlock_wrong">"与上次输入不一致，请重试"</string>
+    <string name="lockpattern_pattern_confirmed_header">"确认保存新解锁图案"</string>
+    <string name="lockpattern_recording_inprogress">"完成后松开手指"</string>
+    <string name="gesture_password_guide_text">你可以创建一个解锁图案，这样他人在借用你的手机时，将无法打开应用。</string>
+    <string name="txt_equipment_information">（设备码在终端\"设备信息\"内或在包装盒中）</string>
+    <string name="text_add_new_reminder">新增提醒</string>
+    <!-- Patter lock  end -->
+    <string name="permission_get_accounts_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_GET_ACCOUNTS</string>
+    <string name="permission_read_phone_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_READ_PHONE_STATE</string>
+    <string name="permission_call_phone_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_CALL_PHONE</string>
+    <string name="permission_camera_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_CAMERA</string>
+    <string name="permission_access_fine_location_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_ACCESS_FINE_LOCATION</string>
+    <string name="permission_access_coarse_location_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_ACCESS_COARSE_LOCATION</string>
+    <string name="permission_read_external_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_READ_EXTERNAL_STORAGE</string>
+    <string name="permission_white_external_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_WRITE_EXTERNAL_STORAGE</string>
+    <string name="permission_recode_audio_hint">没有此权限，无法开启这个功能，请开启权限。PERMISSION_RECORD_AUDIO</string>
+    <string name="permission_reminder">没有权限,请手动打开权限</string>
+
+</resources>

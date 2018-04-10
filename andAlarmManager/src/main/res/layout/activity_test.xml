@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/btn_get_verify_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="获取激活码" />
+
+        <EditText
+            android:id="@+id/edit_verify_code"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="激活码" />
+
+        <Button
+            android:id="@+id/btn_pwd_setting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="密码设置" />
+
+        <Button
+            android:id="@+id/btn_login"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="登录" />
+
+        <Button
+            android:id="@+id/btn_query_user_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="获取用户信息" />
+
+        <Button
+            android:id="@+id/btn_update_user_info"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="更新用户信息" />
+
+        <Button
+            android:id="@+id/btn_update_phoneno"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="更新手机号码" />
+
+        <Button
+            android:id="@+id/btn_applybindalarm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="申请绑定闹钟" />
+
+        <Button
+            android:id="@+id/btn_confirmbindalarm"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="确认绑定闹钟" />
+
+        <Button
+            android:id="@+id/btn_queryhoneyinfos"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="获取宝贝信息" />
+
+        <Button
+            android:id="@+id/btn_updatehoneyinfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="更新宝贝信息" />
+
+        <Button
+            android:id="@+id/btn_queryalarmclocklist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="获取闹钟列表" />
+
+        <Button
+            android:id="@+id/btn_updatealarmclock"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="更新闹钟" />
+
+        <Button
+            android:id="@+id/btn_createalarmclock"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="创建闹钟" />
+
+        <Button
+            android:id="@+id/btn_queryclockhistorylist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="获取历史记录" />
+
+        <Button
+            android:id="@+id/btn_updatehistoryinfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="修改历史记录" />
+
+        <Button
+            android:id="@+id/btn_applymonitor"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="尝试监控" />
+        <Button
+            android:id="@+id/btn_monitor_start"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="监控开始" />
+
+        <Button
+            android:id="@+id/btn_monitor_finish"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="监控结束" />
+
+        <Button
+            android:id="@+id/btn_queryalarmbaseinfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="查询闹钟基础信息" />
+
+        <Button
+            android:id="@+id/btn_updatesleeptime"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="修改睡眠时间" />
+
+        <Button
+            android:id="@+id/btn_updatealarmstatus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="修改闹钟几个控制状态" />
+
+        <Button
+            android:id="@+id/btn_updatevacation"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="修改寒暑假时间" />
+
+        <Button
+            android:id="@+id/btn_queryrewardinfolist"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="查询奖励信息列表" />
+
+        <Button
+            android:id="@+id/btn_RewardSetting"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="设置奖励参数" />
+
+        <Button
+            android:id="@+id/btn_querycompletionpieinfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="查询饼图信息" />
+
+        <Button
+            android:id="@+id/btn_querycompletionbar"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="查询柱形图信息" />
+
+        <Button
+            android:id="@+id/btn_queryholiday"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="获取节假日列表" />
+
+        <Button
+            android:id="@+id/btn_queryring"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="获取铃声列表" />
+
+        <Button
+            android:id="@+id/btn_uploadring"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="上传提示音" />
+
+        <Button
+            android:id="@+id/btn_uploadfile"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="上传文件" />
+
+        <Button
+            android:id="@+id/btn_uploadsharedinfo"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="上报分享情况" />
+
+        <Button
+            android:id="@+id/btn_heartbeat"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="心跳" />
+
+        <Button
+            android:id="@+id/btn_send_voice_msg"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="发送语音消息" />
+
+        <Button
+            android:id="@+id/btn_query_voice_msgs"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="获取语音消息列表" />
+        <Button
+            android:id="@+id/btn_update_report_time"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="更新整点报时时间范围" />
+    </LinearLayout>
+
+</ScrollView>

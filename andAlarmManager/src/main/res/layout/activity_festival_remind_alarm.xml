@@ -1,0 +1,496 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#fff" >
+
+    <RelativeLayout
+        android:id="@+id/rl_festival_remind_alarm_title"
+        android:layout_width="fill_parent"
+        android:layout_height="48dip"
+        android:layout_alignParentTop="true"
+        android:background="@color/title_bg_color"
+        android:gravity="center_vertical" >
+
+        <ImageView
+            android:id="@+id/btn_festival_remind_alarm_back"
+            android:layout_width="25dip"
+            android:layout_height="25dip"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="10dip"
+            android:src="@drawable/selector_back" />
+
+        <TextView
+            style="@style/txt_main_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:layout_centerVertical="true"
+            android:gravity="center"
+            android:text="节日提醒" />
+
+        <TextView
+            android:id="@+id/tv_festival_remind_alarm_finish"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginRight="10dip"
+            android:text="保存"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <ScrollView
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_below="@id/rl_festival_remind_alarm_title"
+        android:scrollbars="none" >
+
+        <LinearLayout
+            android:id="@+id/ll_festival_remind_alarm_list"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="10dip"
+            android:paddingRight="10dip" >
+
+            <RelativeLayout
+                android:id="@+id/rl_festival_remind_alarm_label"
+                android:layout_width="fill_parent"
+                android:layout_height="48dip"
+                android:background="@drawable/selector_item" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dip"
+                    android:text="选择节日"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/iv_alarm_label_expand"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dip"
+                    android:src="@drawable/icon_expand" />
+
+                <TextView
+                    android:id="@+id/tv_festival_remind_alarm_label"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dip"
+                    android:layout_toLeftOf="@id/iv_alarm_label_expand"
+                    android:text="中秋"
+                    android:textColor="#929292"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="@color/seperator" />
+
+            <RelativeLayout
+                android:id="@+id/rl_festival_remind_alarm_date"
+                android:layout_width="fill_parent"
+                android:layout_height="48dip"
+                android:background="@drawable/selector_item" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dip"
+                    android:text="日期"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/iv_alarm_date_expand"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dip"
+                    android:src="@drawable/icon_expand" />
+
+                <TextView
+                    android:id="@+id/tv_festival_remind_alarm_date"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dip"
+                    android:layout_toLeftOf="@id/iv_alarm_date_expand"
+                    android:text="08-15"
+                    android:textColor="#929292"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_gregorian_calendar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dip"
+                android:visibility="gone" >
+
+                <kankan.wheel.widget.WheelView
+                    android:id="@+id/wv_birthday_alarm_year"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3" />
+
+                <kankan.wheel.widget.WheelView
+                    android:id="@+id/wv_birthday_alarm_year_mark"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"
+                    android:layout_marginTop="5dip"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|left"
+                    android:text="年" />
+
+                <kankan.wheel.widget.WheelView
+                    android:id="@+id/wv_birthday_alarm_month"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2" />
+
+                <kankan.wheel.widget.WheelView
+                    android:id="@+id/wv_birthday_alarm_month_mark"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"
+                    android:layout_marginTop="5dip"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|left"
+                    android:text="月" />
+
+                <kankan.wheel.widget.WheelView
+                    android:id="@+id/wv_birthday_alarm_day"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2" />
+
+                <kankan.wheel.widget.WheelView
+                    android:id="@+id/wv_birthday_alarm_day_mark"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="2"
+                    android:visibility="gone" />
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"
+                    android:layout_marginTop="5dip"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|left"
+                    android:text="日" />
+            </LinearLayout>
+
+            <LinearLayout
+                android:id="@+id/ll_lunar_calendar"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dip"
+                android:visibility="gone" >
+
+                <kankan.wheel.widget.WheelView
+                    android:id="@+id/wv_lunar_year"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="5" />
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"
+                    android:layout_marginTop="5dip"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|left"
+                    android:text="年" />
+
+                <kankan.wheel.widget.WheelView
+                    android:id="@+id/wv_lunar_month"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3" />
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"
+                    android:layout_marginTop="5dip"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|left"
+                    android:text="月" />
+
+                <kankan.wheel.widget.WheelView
+                    android:id="@+id/wv_lunar_day"
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_weight="3" />
+
+                <TextView
+                    android:layout_width="0dip"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_vertical|left"
+                    android:layout_marginTop="5dip"
+                    android:layout_weight="1"
+                    android:gravity="center_vertical|left"
+                    android:text="日" />
+            </LinearLayout>
+
+            <CheckBox
+                android:id="@+id/cb_lunar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="right"
+                android:layout_marginBottom="10dip"
+                android:layout_marginRight="20dip"
+                android:layout_marginTop="10dip"
+                android:background="@color/transparent"
+                android:button="@null"
+                android:drawablePadding="5dip"
+                android:text="农历"
+                android:textColor="#aaa"
+                android:textSize="14sp"
+                android:visibility="gone" />
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="@color/seperator" />
+
+            <RelativeLayout
+                android:id="@+id/rl_festival_remind_alarm_time"
+                android:layout_width="fill_parent"
+                android:layout_height="48dip"
+                android:background="@drawable/selector_item" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dip"
+                    android:text="提醒时间"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/iv_alarm_time_expand"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dip"
+                    android:src="@drawable/icon_expand" />
+
+                <TextView
+                    android:id="@+id/tv_festival_remind_alarm_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dip"
+                    android:layout_toLeftOf="@id/iv_alarm_time_expand"
+                    android:text="11:00"
+                    android:textColor="#929292"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="@color/seperator" />
+
+            <RelativeLayout
+                android:id="@+id/rl_festival_remind_alarm_early_time"
+                android:layout_width="fill_parent"
+                android:layout_height="48dip"
+                android:background="@drawable/selector_item" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dip"
+                    android:text="提前时间"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/iv_alarm_early_time_expand"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dip"
+                    android:src="@drawable/icon_expand" />
+
+                <TextView
+                    android:id="@+id/tv_festival_remind_alarm_early_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dip"
+                    android:layout_toLeftOf="@id/iv_alarm_early_time_expand"
+                    android:text="不提前"
+                    android:textColor="#929292"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="@color/seperator" />
+
+            <RelativeLayout
+                android:id="@+id/rl_festival_remind_alarm_ring"
+                android:layout_width="fill_parent"
+                android:layout_height="48dip"
+                android:background="@drawable/selector_item" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dip"
+                    android:text="提醒声音"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+
+                <Button
+                    android:id="@+id/btn_record_voice"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="5dip"
+                    android:background="@drawable/selector_round_text_bg"
+                    android:padding="4dip"
+                    android:text="录制提醒"
+                    android:textColor="#fff"
+                    android:textSize="16sp" />
+
+                <Button
+                    android:id="@+id/btn_choose_ring"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="5dip"
+                    android:layout_toLeftOf="@id/btn_record_voice"
+                    android:background="@drawable/selector_round_text_bg"
+                    android:padding="4dip"
+                    android:text="选择提示音"
+                    android:textColor="#fff"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="@color/seperator" />
+
+            <RelativeLayout
+                android:id="@+id/rl_festival_remind_alarm_confirm"
+                android:layout_width="fill_parent"
+                android:layout_height="48dip"
+                android:background="@drawable/selector_item" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dip"
+                    android:text="提醒确认"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+
+                <com.kyleduo.switchbutton.SwitchButton
+                    android:id="@+id/sb_remind_confirm"
+                    style="@style/SwitchButtonStyle"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    app:offColor="#aaa"
+                    app:onColor="#FF8F3D" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_toLeftOf="@id/sb_remind_confirm"
+                    android:text="开启后,需要终端确认提醒结果"
+                    android:textColor="#FE913F"
+                    android:textSize="10sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="@color/seperator" />
+
+            <RelativeLayout
+                android:id="@+id/rl_festival_remind_alarm_remark"
+                android:layout_width="fill_parent"
+                android:layout_height="48dip"
+                android:background="@drawable/selector_item" >
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="10dip"
+                    android:text="备注"
+                    android:textColor="#000"
+                    android:textSize="18sp" />
+
+                <ImageView
+                    android:id="@+id/iv_alarm_remark_expand"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentRight="true"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dip"
+                    android:src="@drawable/icon_expand" />
+
+                <TextView
+                    android:id="@+id/tv_festival_remind_alarm_remark"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerVertical="true"
+                    android:layout_marginRight="10dip"
+                    android:layout_toLeftOf="@id/iv_alarm_remark_expand"
+                    android:text="无"
+                    android:textColor="#929292"
+                    android:textSize="16sp" />
+            </RelativeLayout>
+
+            <View
+                android:layout_width="fill_parent"
+                android:layout_height="0.1dip"
+                android:background="@color/seperator" />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

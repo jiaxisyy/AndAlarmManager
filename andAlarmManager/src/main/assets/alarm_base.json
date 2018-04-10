@@ -1,0 +1,13 @@
+{
+	"code":0,
+	"alarmBaseInfo":{
+		"sleepStartTime":"21:30",
+		"sleepEndTime":"07:00",
+		"batteryPercent":"85",
+		"chargeStatus":1,
+		"touchScreenStatus":0,
+		"reportStatus":1,
+		"summerVacationTime":"6月30日;8月30日",
+		"winterVacationTime":"1月20日;3月1日"
+	}
+}

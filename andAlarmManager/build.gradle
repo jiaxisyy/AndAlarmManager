@@ -1,0 +1,105 @@
+apply plugin: 'com.android.application'
+apply plugin: 'kotlin-android'
+apply plugin: 'kotlin-android-extensions'
+//apply plugin: 'kotlin-kapt'
+
+android {
+    compileSdkVersion 26
+    buildToolsVersion '27.0.3'
+
+//    //修改处理报错问题  2017/10/23
+    //添加这句,声明编译时依赖项
+    useLibrary 'org.apache.http.legacy'
+    lintOptions {
+        checkReleaseBuilds false
+        // Or, if you prefer, you can continue to check for errors in release builds,
+        // but continue the build even when errors are found:
+        abortOnError false
+    }
+
+
+
+
+
+
+
+    defaultConfig {
+        applicationId "com.weixin.alarm"
+        minSdkVersion 19
+        targetSdkVersion 26
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_7
+            targetCompatibility JavaVersion.VERSION_1_7
+        }
+        //multiDexEnabled true//修改错误2017/10/24
+
+
+
+
+
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-project.txt'
+        }
+    }
+    sourceSets.main {
+        jniLibs.srcDir 'libs'
+        jni.srcDirs = []
+    }
+
+    //修改为android studio3.0报错
+    lintOptions {
+        disable "ResourceType"
+    }
+
+}
+allprojects {
+    repositories {
+        mavenCentral()
+        maven { url "https://maven.google.com" }
+    }
+}
+
+
+dependencies {
+    compile project(':pullToRefreshLibrary')
+    compile project(':image_library')
+    compile project(':slidelibrary')
+    compile project(':switchButton')
+    compile project(':wheel')
+    compile project(':pushSDK')
+    compile project(':feedback')
+    compile files('libs/achartengine-1.1.0.jar')
+    compile files('libs/com.umeng.fb.5.4.0.jar')
+    compile files('libs/flame.jar')
+    compile files('libs/httpmime-4.1.3.jar')
+    compile files('libs/nineoldandroids-2.4.0.jar')
+    compile files('libs/ormlite-android-4.40.jar')
+    compile files('libs/ormlite-core-4.40.jar')
+    compile files('libs/SocialSDK_QQ_Simplify.jar')
+    compile files('libs/SocialSDK_Sina_Simplify.jar')
+    compile files('libs/SocialSDK_WeChat_Simplify.jar')
+    compile files('libs/umeng-analytics-v5.6.1.jar')
+    compile files('libs/umeng-update-v2.6.0.1.jar')
+    compile files('libs/umeng_social_api.jar')
+    compile files('libs/umeng_social_net.jar')
+    compile files('libs/umeng_social_shareview.jar')
+    compile files('libs/zxing.jar')
+    //update2 2017/12/20
+    //    //百度语音
+    implementation files('libs/bdasr_V3_20170929_c8984af.jar')
+    compile "org.jetbrains.kotlin:kotlin-stdlib-jdk7:$kotlin_version"
+    compile 'com.google.code.gson:gson:2.8.2'
+    //图片
+    //kapt 'com.github.bumptech.glide:compiler:4.4.0'
+    implementation 'com.github.bumptech.glide:glide:4.0.0'
+    implementation 'com.android.support:support-v4:25.3.1'
+    implementation files('libs/agora-rtc-sdk.jar')
+}
+repositories {
+    mavenCentral()
+//    google()
+}

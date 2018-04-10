@@ -1,0 +1,798 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:2:1-182:12
+MERGED from [:pullToRefreshLibrary] C:\Android\work\AndAlarmManager\pullToRefreshLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-9:12
+MERGED from [:image_library] C:\Android\work\AndAlarmManager\image_library\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:slidelibrary] C:\Android\work\AndAlarmManager\slidelibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-7:12
+MERGED from [:switchButton] C:\Android\work\AndAlarmManager\switchButton\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-14:12
+MERGED from [:wheel] C:\Android\work\AndAlarmManager\wheel\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-10:12
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-154:12
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-48:12
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\393604cbb075de0e484acee6c3ce9b31\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c8435969fe1252e3a805bee9e130524c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\e204d5e0c222f99b2860732f0e9f0f4b\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6d379a42f9593e6478dcf01d126338cf\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\da3394846568c13dcf35ff4cfe45c3bd\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c558f3ef53a6c2a1dabae2aa616cff32\AndroidManifest.xml:17:1-31:12
+INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:2:1-182:12
+INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:2:1-182:12
+	package
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:7:5-31
+		INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:6:5-29
+		INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml
+uses-sdk
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:9:5-11:41
+INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:9:5-11:41
+INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:9:5-11:41
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\393604cbb075de0e484acee6c3ce9b31\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\393604cbb075de0e484acee6c3ce9b31\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c8435969fe1252e3a805bee9e130524c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c8435969fe1252e3a805bee9e130524c\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\e204d5e0c222f99b2860732f0e9f0f4b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\e204d5e0c222f99b2860732f0e9f0f4b\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6d379a42f9593e6478dcf01d126338cf\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6d379a42f9593e6478dcf01d126338cf\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\da3394846568c13dcf35ff4cfe45c3bd\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\da3394846568c13dcf35ff4cfe45c3bd\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c558f3ef53a6c2a1dabae2aa616cff32\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c558f3ef53a6c2a1dabae2aa616cff32\AndroidManifest.xml:21:5-23:58
+INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:9:5-11:41
+INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:9:5-11:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\393604cbb075de0e484acee6c3ce9b31\AndroidManifest.xml:23:9-51
+	android:targetSdkVersion
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:11:9-38
+		INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:10:9-35
+		INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml
+		INJECTED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:12:5-81
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:10:5-81
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:10:5-81
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-81
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:12:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:13:5-80
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-80
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-80
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:13:22-77
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:14:5-71
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:14:22-68
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:15:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:16:5-75
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-75
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-75
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-75
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-75
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:16:22-72
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:17:5-79
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-79
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:5-79
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-79
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:18:5-76
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-76
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:5-76
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:10:5-76
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:10:5-76
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:18:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:19:5-67
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-67
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-67
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-67
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-67
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:19:22-64
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:20:5-68
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:5-68
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:5-68
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:5-68
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:18:5-68
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:20:22-65
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:21:5-78
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:21:22-75
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:22:5-66
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:22:22-63
+uses-permission#android.permission.CAMERA
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:23:5-65
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:5-65
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:5-65
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:23:22-62
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:24:5-83
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:24:22-81
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:34:5-79
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-79
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:34:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:35:5-81
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-81
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-81
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:35:22-78
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:36:5-89
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:36:22-86
+uses-feature#android.hardware.camera
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:38:5-60
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:38:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:39:5-70
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:39:19-67
+uses-permission#android.permission.WRITE_SETTINGS
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:42:5-73
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-73
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:42:22-70
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:43:5-68
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-68
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-68
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:43:22-65
+uses-permission#android.permission.READ_SETTINGS
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:44:2-69
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-72
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-72
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:44:19-66
+application
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:47:5-180:19
+MERGED from [:pullToRefreshLibrary] C:\Android\work\AndAlarmManager\pullToRefreshLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-20
+MERGED from [:pullToRefreshLibrary] C:\Android\work\AndAlarmManager\pullToRefreshLibrary\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-20
+MERGED from [:switchButton] C:\Android\work\AndAlarmManager\switchButton\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:switchButton] C:\Android\work\AndAlarmManager\switchButton\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-12:19
+MERGED from [:wheel] C:\Android\work\AndAlarmManager\wheel\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-8:19
+MERGED from [:wheel] C:\Android\work\AndAlarmManager\wheel\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-8:19
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:5-152:19
+MERGED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:5-152:19
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-46:19
+MERGED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-46:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\393604cbb075de0e484acee6c3ce9b31\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\393604cbb075de0e484acee6c3ce9b31\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c8435969fe1252e3a805bee9e130524c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c8435969fe1252e3a805bee9e130524c\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\e204d5e0c222f99b2860732f0e9f0f4b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\e204d5e0c222f99b2860732f0e9f0f4b\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6d379a42f9593e6478dcf01d126338cf\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6d379a42f9593e6478dcf01d126338cf\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\da3394846568c13dcf35ff4cfe45c3bd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\da3394846568c13dcf35ff4cfe45c3bd\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c558f3ef53a6c2a1dabae2aa616cff32\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c558f3ef53a6c2a1dabae2aa616cff32\AndroidManifest.xml:29:5-20
+	android:enabled
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:50:9-31
+	android:label
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:52:9-41
+		REJECTED from [:switchButton] C:\Android\work\AndAlarmManager\switchButton\build\intermediates\manifests\full\debug\AndroidManifest.xml:10:9-41
+		REJECTED from [:wheel] C:\Android\work\AndAlarmManager\wheel\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:18-54
+		REJECTED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:23:9-41
+	android:icon
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:51:9-43
+		REJECTED from [:switchButton] C:\Android\work\AndAlarmManager\switchButton\build\intermediates\manifests\full\debug\AndroidManifest.xml:9:9-45
+	android:allowBackup
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:49:9-35
+		REJECTED from [:switchButton] C:\Android\work\AndAlarmManager\switchButton\build\intermediates\manifests\full\debug\AndroidManifest.xml:8:9-35
+		REJECTED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:22:9-36
+	android:theme
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:54:9-40
+	tools:replace
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:53:9-71
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:48:9-57
+activity#com.babacit.alarm.ui.activity.WelcomeActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:55:9-63:20
+	android:theme
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:57:13-60
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:56:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:58:13-62:29
+action#android.intent.action.MAIN
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:59:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:61:17-77
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:61:27-74
+activity#com.babacit.alarm.ui.activity.MainActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:64:9-79
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:64:19-76
+activity#com.babacit.alarm.ui.activity.GuideActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:65:9-80
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:65:19-77
+activity#com.babacit.alarm.ui.activity.LoginRegisterActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:66:9-88
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:66:19-85
+activity#com.babacit.alarm.ui.activity.BabyInfoActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:67:9-83
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:67:19-80
+activity#com.babacit.alarm.ui.activity.AccountInfoActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:68:9-86
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:68:19-83
+activity#com.babacit.alarm.ui.activity.AccountSettingActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:69:9-89
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:69:19-86
+activity#com.babacit.alarm.ui.activity.LittleRedFlowerActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:70:9-90
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:70:19-87
+activity#com.babacit.alarm.ui.activity.FlowerStatisticActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:71:9-90
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:71:19-87
+activity#com.babacit.alarm.ui.activity.FlowerTargetSettingActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:72:9-94
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:72:19-91
+activity#com.babacit.alarm.ui.activity.MipcaActivityCapture
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:73:9-87
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:73:19-84
+activity#com.babacit.alarm.ui.activity.BindTerminalByInputActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:74:9-94
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:74:19-91
+activity#com.babacit.alarm.ui.activity.GetupAlarmActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:75:9-85
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:75:19-82
+activity#com.babacit.alarm.ui.activity.FestivalRemindAlarmActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:76:9-94
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:76:19-91
+activity#com.babacit.alarm.ui.activity.BirthdayManagerAlarmActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:77:9-95
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:77:19-92
+activity#com.babacit.alarm.ui.activity.DailyRemindAlarmActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:78:9-91
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:78:19-88
+activity#com.babacit.alarm.ui.activity.AnniversaryAlarmActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:79:9-91
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:79:19-88
+activity#com.babacit.alarm.ui.activity.EyesProtectActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:80:9-86
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:80:19-83
+activity#com.babacit.alarm.ui.activity.HomeworkRemindActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:81:9-89
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:81:19-86
+activity#com.babacit.alarm.ui.activity.WaterAndMedicineActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:82:9-91
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:82:19-88
+activity#com.babacit.alarm.ui.activity.ChooseRingActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:83:9-85
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:83:19-82
+activity#com.babacit.alarm.ui.activity.RecordVoiceActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:84:9-86
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:84:19-83
+activity#com.babacit.alarm.ui.activity.AuditionActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:85:9-83
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:85:19-80
+activity#com.babacit.alarm.ui.activity.CustomAlarmActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:86:9-86
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:86:19-83
+activity#com.babacit.alarm.ui.activity.ChangePhoneNumActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:87:9-89
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:87:19-86
+activity#com.babacit.alarm.ui.activity.ChangePasswordActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:88:9-89
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:88:19-86
+activity#com.babacit.alarm.ui.activity.VacationSettingActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:89:9-90
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:89:19-87
+activity#com.babacit.alarm.ui.activity.SleepSettingActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:90:9-87
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:90:19-84
+activity#com.babacit.alarm.ui.activity.ChimeSettingActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:91:9-87
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:91:19-84
+activity#com.babacit.alarm.ui.activity.AboutActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:92:9-80
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:92:19-77
+activity#com.babacit.alarm.ui.activity.HelpActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:93:9-79
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:93:19-76
+activity#com.babacit.alarm.ui.activity.CommonSettingActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:94:9-88
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:94:19-85
+activity#com.babacit.alarm.ui.activity.ChangeRoleActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:95:9-85
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:95:19-82
+activity#com.babacit.alarm.ui.activity.ScreenCaptureActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:96:9-88
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:96:19-85
+activity#org.achartengine.GraphicalActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:97:9-71
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:97:19-68
+activity#com.babacit.alarm.ui.activity.UnlockGesturePasswordActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:98:9-96
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:98:19-93
+activity#com.babacit.alarm.ui.activity.CreateGesturePasswordActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:99:9-96
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:99:19-93
+service#com.baidu.speech.VoiceRecognitionService
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:101:9-101
+	android:exported
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:101:74-98
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:101:18-73
+meta-data#com.baidu.speech.APP_ID
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:102:9-103:40
+	android:value
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:103:13-37
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:102:20-58
+meta-data#com.baidu.speech.API_KEY
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:104:9-106:56
+	android:value
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:106:13-53
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:105:13-52
+meta-data#com.baidu.speech.SECRET_KEY
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:107:9-109:64
+	android:value
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:109:13-61
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:108:13-55
+meta-data#UMENG_APPKEY
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:111:9-114:21
+	android:value
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:113:13-53
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:112:13-40
+meta-data#UMENG_CHANNEL
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:115:9-117:39
+	android:value
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:117:13-36
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:116:13-41
+meta-data#UMENG_MESSAGE_SECRET
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:118:3-121:15
+	android:value
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:120:7-55
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:119:7-42
+service#com.umeng.update.net.DownloadingService
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:122:9-125:19
+	android:process
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:124:13-50
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:123:13-67
+activity#com.umeng.update.UpdateDialogActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:127:9-130:20
+	android:theme
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:129:13-72
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:128:13-65
+activity#com.babacit.alarm.WBShareActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:135:9-143:20
+	android:screenOrientation
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:138:13-49
+	android:configChanges
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:137:13-63
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:136:13-44
+intent-filter#action:name:com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY+category:name:android.intent.category.DEFAULT
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:139:13-142:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:140:17-92
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:140:25-89
+category#android.intent.category.DEFAULT
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:141:17-76
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:141:27-73
+activity#com.umeng.socialize.editorpage.ShareActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:146:9-149:49
+	android:excludeFromRecents
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:149:13-46
+	android:theme
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:148:13-51
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:147:13-72
+activity#com.umeng.qq.tencent.AuthActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:152:9-164:20
+	android:launchMode
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:154:13-44
+	android:noHistory
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:155:13-37
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:153:13-61
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:1104934061
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:156:13-163:29
+action#android.intent.action.VIEW
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:157:17-69
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:157:25-66
+category#android.intent.category.BROWSABLE
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:160:17-78
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:160:27-75
+data
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:162:17-53
+	android:scheme
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:162:23-50
+activity#com.umeng.qq.tencent.AssistActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:165:9-169:75
+	android:screenOrientation
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:168:13-49
+	android:configChanges
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:167:13-74
+	android:theme
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:169:13-72
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:166:13-63
+activity#com.babacit.alarm.wxapi.WXEntryActivity
+ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:172:9-177:75
+	android:screenOrientation
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:176:13-49
+	android:exported
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:175:13-36
+	android:configChanges
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:174:13-74
+	android:theme
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:177:13-72
+	android:name
+		ADDED from C:\Android\work\AndAlarmManager\andAlarmManager\src\main\AndroidManifest.xml:173:13-50
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-68
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:22-65
+uses-permission#android.permission.BROADCAST_PACKAGE_ADDED
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:5-82
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:13:22-79
+uses-permission#android.permission.BROADCAST_PACKAGE_CHANGED
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:14:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_INSTALL
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:5-84
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:15:22-81
+uses-permission#android.permission.BROADCAST_PACKAGE_REPLACED
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:5-85
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:16:22-82
+uses-permission#android.permission.RESTART_PACKAGES
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:5-75
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:17:22-72
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:5-81
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:19:22-78
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:20:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:5-76
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:21:22-73
+service#com.taobao.accs.ChannelService
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:9-34:19
+	android:process
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:13-39
+	android:exported
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:13-58
+intent-filter#action:name:com.taobao.accs.intent.action.SERVICE
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:13-30:29
+action#com.taobao.accs.intent.action.SERVICE
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:17-80
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:25-77
+intent-filter#action:name:com.taobao.accs.intent.action.ELECTION
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:31:13-33:29
+action#com.taobao.accs.intent.action.ELECTION
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:17-81
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:25-78
+service#com.taobao.accs.data.MsgDistributeService
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:35:9-41:19
+	android:exported
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:13-69
+intent-filter#action:name:com.taobao.accs.intent.action.RECEIVE
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:38:13-40:29
+action#com.taobao.accs.intent.action.RECEIVE
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:39:17-80
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:39:25-77
+receiver#com.taobao.accs.EventReceiver
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:43:9-60:20
+	android:process
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:45:13-39
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:44:13-57
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:46:13-48:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:47:17-79
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:47:25-76
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:49:13-51:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:50:17-79
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:50:25-76
+intent-filter#action:name:android.intent.action.PACKAGE_REMOVED+data:scheme:package
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:52:13-56:29
+action#android.intent.action.PACKAGE_REMOVED
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:53:17-80
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:53:25-77
+intent-filter#action:name:android.intent.action.USER_PRESENT
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:57:13-59:29
+action#android.intent.action.USER_PRESENT
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:58:17-77
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:58:25-74
+receiver#com.taobao.accs.ServiceReceiver
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:61:9-70:20
+	android:process
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:63:13-39
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:62:13-59
+intent-filter#action:name:com.taobao.accs.intent.action.COMMAND
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:64:13-66:29
+action#com.taobao.accs.intent.action.COMMAND
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:65:17-80
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:65:25-77
+intent-filter#action:name:com.taobao.accs.intent.action.START_FROM_AGOO
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:67:13-69:29
+action#com.taobao.accs.intent.action.START_FROM_AGOO
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:68:17-88
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:68:25-85
+service#com.taobao.accs.ChannelService$KernelService
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:72:9-74:42
+	android:process
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:74:13-39
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:73:13-72
+service#org.android.agoo.accs.AgooService
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:75:9-81:19
+	android:exported
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:77:13-36
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:76:13-61
+service#com.umeng.message.UmengIntentService
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:82:9-89:19
+	android:process
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:85:13-39
+	android:exported
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:84:13-36
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:83:13-64
+intent-filter#action:name:org.agoo.android.intent.action.RECEIVE
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:86:13-88:29
+action#org.agoo.android.intent.action.RECEIVE
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:87:17-81
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:87:25-78
+service#com.umeng.message.XiaomiIntentService
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:90:9-97:19
+	android:process
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:93:13-39
+	android:exported
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:92:13-36
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:91:13-65
+receiver#com.taobao.agoo.AgooCommondReceiver
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:99:9-111:20
+	android:process
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:102:13-39
+	android:exported
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:101:13-36
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:100:13-63
+intent-filter#action:name:com.babacit.alarm.intent.action.COMMAND
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:103:13-105:29
+action#com.babacit.alarm.intent.action.COMMAND
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:104:17-82
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:104:25-79
+service#com.umeng.message.UmengMessageIntentReceiverService
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:113:9-120:19
+	android:process
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:116:13-39
+	android:exported
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:115:13-36
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:114:13-79
+intent-filter#action:name:org.android.agoo.client.MessageReceiverService
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:117:13-119:29
+action#org.android.agoo.client.MessageReceiverService
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:118:17-89
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:118:25-86
+receiver#com.umeng.message.NotificationProxyBroadcastReceiver
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:122:9-124:40
+	android:exported
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:124:13-37
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:123:13-80
+service#com.umeng.message.UmengMessageCallbackHandlerService
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:126:9-141:19
+	android:exported
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:128:13-37
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:127:13-80
+intent-filter#action:name:com.umeng.messge.registercallback.action
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:129:13-131:29
+action#com.umeng.messge.registercallback.action
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:130:17-83
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:130:25-80
+intent-filter#action:name:com.umeng.message.enablecallback.action
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:132:13-134:29
+action#com.umeng.message.enablecallback.action
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:133:17-82
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:133:25-79
+intent-filter#action:name:com.umeng.message.disablecallback.action
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:135:13-137:29
+action#com.umeng.message.disablecallback.action
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:136:17-83
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:136:25-80
+intent-filter#action:name:com.umeng.message.message.handler.action
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:138:13-140:29
+action#com.umeng.message.message.handler.action
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:139:17-83
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:139:25-80
+service#com.umeng.message.UmengDownloadResourceService
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:142:9-144:40
+	android:exported
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:144:13-37
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:143:13-74
+provider#com.umeng.message.provider.MessageProvider
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:146:9-151:20
+	android:authorities
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:148:13-66
+	android:exported
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:149:13-37
+	android:name
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:147:13-70
+grant-uri-permission
+ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:150:13-62
+	android:pathPattern
+		ADDED from [:pushSDK] C:\Android\work\AndAlarmManager\pushSDK\build\intermediates\manifests\full\debug\AndroidManifest.xml:150:35-59
+activity#com.alibaba.sdk.android.feedback.windvane.CustomHybirdActivity
+ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:24:9-29:58
+	android:screenOrientation
+		ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:27:13-49
+	android:windowSoftInputMode
+		ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:29:13-55
+	android:configChanges
+		ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:26:13-63
+	android:theme
+		ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:28:13-63
+	android:name
+		ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:25:13-90
+activity#com.alibaba.sdk.android.feedback.impl.ErrorPageActivity
+ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:30:9-34:66
+	android:screenOrientation
+		ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:33:13-49
+	android:configChanges
+		ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:32:13-63
+	android:theme
+		ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:34:13-63
+	android:name
+		ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:31:13-83
+receiver#com.alibaba.sdk.android.feedback.impl.NetworkChangeReceiver
+ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:36:9-43:20
+	android:enabled
+		ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:37:13-87
+service#com.alibaba.mtl.appmonitor.AppMonitorService
+ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:45:9-80
+	android:name
+		ADDED from [:feedback] C:\Android\work\AndAlarmManager\feedback\build\intermediates\manifests\full\debug\AndroidManifest.xml:45:18-77
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\393604cbb075de0e484acee6c3ce9b31\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c8435969fe1252e3a805bee9e130524c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\c8435969fe1252e3a805bee9e130524c\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\e204d5e0c222f99b2860732f0e9f0f4b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\e204d5e0c222f99b2860732f0e9f0f4b\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6d379a42f9593e6478dcf01d126338cf\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\6d379a42f9593e6478dcf01d126338cf\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\da3394846568c13dcf35ff4cfe45c3bd\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\da3394846568c13dcf35ff4cfe45c3bd\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c558f3ef53a6c2a1dabae2aa616cff32\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\c558f3ef53a6c2a1dabae2aa616cff32\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\393604cbb075de0e484acee6c3ce9b31\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\hekd\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\393604cbb075de0e484acee6c3ce9b31\AndroidManifest.xml:26:9-47

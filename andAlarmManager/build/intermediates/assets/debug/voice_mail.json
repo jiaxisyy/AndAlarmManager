@@ -1,0 +1,39 @@
+{
+	"code":0,
+	"messageList":[
+		{
+			"id":1,
+			"messageUrl":"41242.amr",
+			"voiceTime":"3",
+			"user":{
+				"userId":1,
+				"imgUrl":"",
+				"nickName":"小强",
+				"name":"强哥",
+				"roleInfo":"暂无",
+				"roleType":1,
+				"birthday":"1988-08-23",
+				"phoneNo":"15989354868",
+				"jobType":1
+			},
+			"createTime":"2015-11-21 12:11:11"
+		},
+		{
+			"id":2,
+			"messageUrl":"gasfs.amr",
+			"voiceTime":"5",
+			"user":{
+				"userId":2,
+				"imgUrl":"",
+				"nickName":"小雄",
+				"name":"雄哥",
+				"roleInfo":"暂无",
+				"roleType":1,
+				"birthday":"1988-08-23",
+				"phoneNo":"15989355869",
+				"jobType":1
+			},
+			"createTime":"2015-11-22 13:13:15"
+		}
+	]
+}

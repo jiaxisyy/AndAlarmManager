@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.weixin.alarm"
+    android:versionCode="19"
+    android:versionName="1.21" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- SYY 测试相册 -->
+    <!-- <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEM"/> -->
+    <!-- 友盟分享SDK -->
+    <!--
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    -->
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+    <!-- 友盟分享SDK -->
+    <uses-feature android:name="android.hardware.camera" />
+    <uses-feature android:name="android.hardware.camera.autofocus" />
+
+    <!-- 阿里百川SDK -->
+    <uses-permission android:name="android.permission.WRITE_SETTINGS" />
+    <uses-permission android:name="android.permission.BLUETOOTH" />
+    <uses-permission android:name="android.permission.READ_SETTINGS" />
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_ADDED" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_CHANGED" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_INSTALL" />
+    <uses-permission android:name="android.permission.BROADCAST_PACKAGE_REPLACED" />
+    <uses-permission android:name="android.permission.RESTART_PACKAGES" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+
+    <meta-data
+        android:name="android.support.VERSION"
+        android:value="25.3.1" />
+
+    <application
+        android:name="com.babacit.alarm.MainApplication"
+        android:allowBackup="true"
+        android:debuggable="true"
+        android:enabled="true"
+        android:icon="@mipmap/icon_mybaby"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.babacit.alarm.ui.activity.WelcomeActivity"
+            android:theme="@android:style/Theme.NoTitleBar" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.babacit.alarm.ui.activity.MainActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.GuideActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.LoginRegisterActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.BabyInfoActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.AccountInfoActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.AccountSettingActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.LittleRedFlowerActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.FlowerStatisticActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.FlowerTargetSettingActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.MipcaActivityCapture" />
+        <activity android:name="com.babacit.alarm.ui.activity.BindTerminalByInputActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.GetupAlarmActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.FestivalRemindAlarmActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.BirthdayManagerAlarmActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.DailyRemindAlarmActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.AnniversaryAlarmActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.EyesProtectActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.HomeworkRemindActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.WaterAndMedicineActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.ChooseRingActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.RecordVoiceActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.AuditionActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.CustomAlarmActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.ChangePhoneNumActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.ChangePasswordActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.VacationSettingActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.SleepSettingActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.ChimeSettingActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.AboutActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.HelpActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.CommonSettingActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.ChangeRoleActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.ScreenCaptureActivity" />
+        <activity android:name="org.achartengine.GraphicalActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.UnlockGesturePasswordActivity" />
+        <activity android:name="com.babacit.alarm.ui.activity.CreateGesturePasswordActivity" />
+        <!-- 百度语音识别前 -->
+        <service
+            android:name="com.baidu.speech.VoiceRecognitionService"
+            android:exported="false" />
+
+        <meta-data
+            android:name="com.baidu.speech.APP_ID"
+            android:value="10560065" />
+        <meta-data
+            android:name="com.baidu.speech.API_KEY"
+            android:value="hwbzDQBLlljTF4EIG0egyAjQ" />
+        <meta-data
+            android:name="com.baidu.speech.SECRET_KEY"
+            android:value="sI6YuTgWSlxtYu7uHiuYaRjXp1iUSPDx" />
+        <!-- 百度语音识别后 -->
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="566a46fde0f55abe550007f3" >
+        </meta-data>
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="wangdan" />
+        <meta-data
+            android:name="UMENG_MESSAGE_SECRET"
+            android:value="d9a0110f6c5a1b29568c5f2b56dc7e3f" >
+        </meta-data>
+
+        <service
+            android:name="com.umeng.update.net.DownloadingService"
+            android:process=":DownloadingService" >
+        </service>
+
+        <activity
+            android:name="com.umeng.update.UpdateDialogActivity"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+        </activity>
+        <!-- UMENG分享begin -->
+        <!-- ###################注册SDK使用的Activity###################### -->
+
+
+        <!-- 新浪，由于新浪即将对之前的云端接口进行关停，所以新浪精简版需要做一些改版： 代码层面不需要变动，只需要升级到6.4，替换6.4之后的所有jar 同时精简版需要增加一个回调Activity -->
+        <activity
+            android:name="com.babacit.alarm.WBShareActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+
+        <!-- 分享编辑页(只有新浪微博精简版，豆瓣人人腾讯微博需要) -->
+        <activity
+            android:name="com.umeng.socialize.editorpage.ShareActivity"
+            android:excludeFromRecents="true"
+            android:theme="@style/Theme.UMDefault" />
+
+        <!-- qq精简版 -->
+        <activity
+            android:name="com.umeng.qq.tencent.AuthActivity"
+            android:launchMode="singleTask"
+            android:noHistory="true" >
+            <intent-filter>
+                <action android:name="android.intent.action.VIEW" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+                <category android:name="android.intent.category.BROWSABLE" />
+                <!-- 100424468，如果你使用的公用账号，则不需要修改；否则修改成你在QQ开放平台申请的 APP ID -->
+                <data android:scheme="1104934061" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.umeng.qq.tencent.AssistActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- 微信 -->
+        <activity
+            android:name="com.babacit.alarm.wxapi.WXEntryActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:exported="true"
+            android:screenOrientation="portrait"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <!-- UMENG分享end -->
+        <service
+            android:name="com.taobao.accs.ChannelService"
+            android:exported="true"
+            android:process=":channel" >
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.SERVICE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.ELECTION" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.taobao.accs.data.MsgDistributeService"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.RECEIVE" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.taobao.accs.EventReceiver"
+            android:process=":channel" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.USER_PRESENT" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.taobao.accs.ServiceReceiver"
+            android:process=":channel" >
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.COMMAND" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.START_FROM_AGOO" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.taobao.accs.ChannelService$KernelService"
+            android:process=":channel" />
+        <service
+            android:name="org.android.agoo.accs.AgooService"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.taobao.accs.intent.action.RECEIVE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.umeng.message.UmengIntentService"
+            android:exported="true"
+            android:process=":channel" >
+            <intent-filter>
+                <action android:name="org.agoo.android.intent.action.RECEIVE" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.umeng.message.XiaomiIntentService"
+            android:exported="true"
+            android:process=":channel" >
+            <intent-filter>
+                <action android:name="org.agoo.android.intent.action.RECEIVE" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.taobao.agoo.AgooCommondReceiver"
+            android:exported="true"
+            android:process=":channel" >
+            <intent-filter>
+                <action android:name="com.babacit.alarm.intent.action.COMMAND" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+
+        <service
+            android:name="com.umeng.message.UmengMessageIntentReceiverService"
+            android:exported="true"
+            android:process=":channel" >
+            <intent-filter>
+                <action android:name="org.android.agoo.client.MessageReceiverService" />
+            </intent-filter>
+        </service>
+
+        <receiver
+            android:name="com.umeng.message.NotificationProxyBroadcastReceiver"
+            android:exported="false" />
+
+        <service
+            android:name="com.umeng.message.UmengMessageCallbackHandlerService"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="com.umeng.messge.registercallback.action" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.umeng.message.enablecallback.action" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.umeng.message.disablecallback.action" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.umeng.message.message.handler.action" />
+            </intent-filter>
+        </service>
+        <service
+            android:name="com.umeng.message.UmengDownloadResourceService"
+            android:exported="false" />
+
+        <provider
+            android:name="com.umeng.message.provider.MessageProvider"
+            android:authorities="com.babacit.alarm.umeng.message"
+            android:exported="false" >
+            <grant-uri-permission android:pathPattern=".*" />
+        </provider>
+
+        <activity
+            android:name="com.alibaba.sdk.android.feedback.windvane.CustomHybirdActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/ali_feedback_contentoverlay"
+            android:windowSoftInputMode="adjustResize" />
+        <activity
+            android:name="com.alibaba.sdk.android.feedback.impl.ErrorPageActivity"
+            android:configChanges="keyboardHidden|orientation"
+            android:screenOrientation="portrait"
+            android:theme="@style/ali_feedback_contentoverlay" />
+
+        <receiver
+            android:name="com.alibaba.sdk.android.feedback.impl.NetworkChangeReceiver"
+            android:enabled="true"
+            android:exported="false" >
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+            </intent-filter>
+        </receiver>
+
+        <service android:name="com.alibaba.mtl.appmonitor.AppMonitorService" />
+    </application>
+
+</manifest>

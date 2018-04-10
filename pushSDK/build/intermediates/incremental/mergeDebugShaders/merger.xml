@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Android\work\AndAlarmManager\pushSDK\src\main\shaders"/></dataSet><dataSet config="debug"><source path="C:\Android\work\AndAlarmManager\pushSDK\src\debug\shaders"/></dataSet></merger>

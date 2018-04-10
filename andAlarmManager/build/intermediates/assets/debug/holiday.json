@@ -1,0 +1,42 @@
+{
+	"code":0,
+	"holidayList":[
+		{
+			"holidayId":1,
+			"holidayName":"元旦节",
+			"holidayTime":"2016-01-01",
+			"dateType":0
+		},
+		{
+			"holidayId":2,
+			"holidayName":"国庆节",
+			"holidayTime":"2016-10-10",
+			"dateType":0
+		},
+		{
+			"holidayId":3,
+			"holidayName":"植树节",
+			"holidayTime":"2016-03-12",
+			"dateType":0
+		},
+		{
+			"holidayId":4,
+			"holidayName":"春节",
+			"holidayTime":"2016大年初一",
+			"dateType":1
+		},
+		{
+			"holidayId":5,
+			"holidayName":"端午节",
+			"holidayTime":"2016-05-05",
+			"dateType":1
+		},
+		{
+			"holidayId":6,
+			"holidayName":"中元节",
+			"holidayTime":"2016-07-15",
+			"dateType":1
+		}
+		
+	]
+}
